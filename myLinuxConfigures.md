@@ -7,5 +7,5 @@
   4. update package database `sudo pacman -Sy`
   5. Install `libreoffice`, `kvantum`, `wine*`, `gimp`, `smplayer*`
   6. Install themes GTK: `proof-gnome` & Kvantum: `KvMojaveLight`
-  10. Install `Mailspring` from AUR
-  11. Install Oh-My-ZSH & configure it (Powerline-Font + git-plugin + theme: `jonathan` & `fino-time`).
+  7. Install `Mailspring` from AUR
+  8. Install Oh-My-ZSH & configure it (Powerline-Font + git-plugin + theme: `jonathan` & `fino-time`).
