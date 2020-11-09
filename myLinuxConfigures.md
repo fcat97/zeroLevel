@@ -9,3 +9,5 @@
   6. Install themes GTK: `proof-gnome` & Kvantum: `KvMojaveLight`
   7. Install `Mailspring` from AUR
   8. Install Oh-My-ZSH & configure it (Powerline-Font + git-plugin + theme: `jonathan` & `fino-time`).
+  9. Install `video-hybrid-intel-nvdia-455xx-prime`
+  10. Update the system
