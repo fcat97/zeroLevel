@@ -11,3 +11,4 @@
   8. Install Oh-My-ZSH & configure it (Powerline-Font + git-plugin + theme: `jonathan` & `fino-time`).
   9. Install `video-hybrid-intel-nvdia-455xx-prime`
   10. Update the system
+  11. Install `lsd` to colorize the termuinal and add `alias = ls` in `~/.zshrc`.
