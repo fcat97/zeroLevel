@@ -12,3 +12,5 @@
   9. Install `video-hybrid-intel-nvdia-455xx-prime`
   10. Update the system
   11. Install `lsd` to colorize the termuinal and add `alias = ls` in `~/.zshrc`.
+  12. Installed `colorls` through `AUR`. Set in `~/.zshrc` aliases such as `alias="colorls --almost-all --git-status".
+  13. `dict` is very beautiful CLI Dictionary. Installed it. 
