@@ -6,7 +6,7 @@
   3. update mirrors `sudo pacman-mirror --fasttrack 5`
   4. update package database `sudo pacman -Sy`
   5. Install `libreoffice`, `kvantum`, `wine*`, `gimp`, `smplayer*`
-  6. Install themes GTK: `proof-gnome` & Kvantum: `KvMojaveLight`
+  6. Install themes GTK: `proof-gnome` & Kvantum: `Neonyt-Kvantum` & Plasma-Theme `Infinity-Plasma`
   7. Install `Mailspring` from AUR
   8. Install Oh-My-ZSH & configure it (Powerline-Font + git-plugin + theme: `p10k` or `jonathan` & `fino-time`).
   9. Install `video-hybrid-intel-nvdia-455xx-prime`
