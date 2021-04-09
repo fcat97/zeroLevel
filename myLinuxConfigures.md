@@ -21,9 +21,9 @@
 **Step 2: Installed Apps**
   1. Any Desk
   2. Audacity
-  3. Curlew (Converter)
+  3. Curlew (Media Converter)
   4. Free Download Manager
-  5. Flowblade (moview Editor)
+  5. Flowblade (Movie Editor)
   6. Inkscape
   7. Gimp
   8. Mailspring
