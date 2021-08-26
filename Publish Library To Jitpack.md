@@ -45,6 +45,25 @@ afterEvaluate {
 }
 ```
 
+### don't forget to create this `jitpack.yml` file in Packege dir
+
+```yml
+jdk:
+  - openjdk11
+```
+otherwise you will get this error during jitpack build
+
+```gradle
+* What went wrong:
+An exception occurred applying plugin request [id: 'com.android.application']
+> Failed to apply plugin 'com.android.internal.application'.
+   > Android Gradle plugin requires Java 11 to run. You are currently using Java 1.8.
+     You can try some of the following options:
+       - changing the IDE settings.
+       - changing the JAVA_HOME environment variable.
+       - changing `org.gradle.java.home` in `gradle.properties`.
+```
+
 ## Check Maven Publish Plugin
 Let’s check whether all the changes we have done are correctly configured in the maven publish plugin or not. Check that your library can be installed to mavenLocal ($HOME/.m2/repository):
 -  Run following command in Android Studio Terminal `./gradlew publishReleasePublicationToMavenLocal`
