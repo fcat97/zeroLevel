@@ -51,6 +51,10 @@ afterEvaluate {
 jdk:
   - openjdk11
 ```
+
+https://stackoverflow.com/a/68756946/8229399
+https://github.com/jitpack/jitpack.io/issues/4474
+
 otherwise you will get this error during jitpack build
 
 ```gradle
