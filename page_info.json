@@ -1,0 +1,6723 @@
+[
+    {
+        "index": "001",
+        "start": {
+            "surah": "surah_0",
+            "verse": "verse_0"
+        },
+        "end": {
+            "surah": "surah_0",
+            "verse": "verse_0"
+        }
+    },
+    {
+        "index": "002",
+        "start": {
+            "surah": "surah_1",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_1",
+            "verse": "verse_7"
+        }
+    },
+    {
+        "index": "003",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_4"
+        }
+    },
+    {
+        "index": "004",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_5"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_15"
+        }
+    },
+    {
+        "index": "005",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_16"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_23"
+        }
+    },
+    {
+        "index": "006",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_24"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_29"
+        }
+    },
+    {
+        "index": "007",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_30"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_37"
+        }
+    },
+    {
+        "index": "008",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_38"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_48"
+        }
+    },
+    {
+        "index": "009",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_49"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_57"
+        }
+    },
+    {
+        "index": "010",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_58"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_61"
+        }
+    },
+    {
+        "index": "011",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_62"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_69"
+        }
+    },
+    {
+        "index": "012",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_70"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_76"
+        }
+    },
+    {
+        "index": "013",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_77"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_83"
+        }
+    },
+    {
+        "index": "014",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_84"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_88"
+        }
+    },
+    {
+        "index": "015",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_89"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_93"
+        }
+    },
+    {
+        "index": "016",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_94"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_101"
+        }
+    },
+    {
+        "index": "017",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_102"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_105"
+        }
+    },
+    {
+        "index": "018",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_106"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_112"
+        }
+    },
+    {
+        "index": "019",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_113"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_119"
+        }
+    },
+    {
+        "index": "020",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_120"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_126"
+        }
+    },
+    {
+        "index": "021",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_127"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_134"
+        }
+    },
+    {
+        "index": "022",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_135"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_141"
+        }
+    },
+    {
+        "index": "023",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_142"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_146"
+        }
+    },
+    {
+        "index": "024",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_147"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_156"
+        }
+    },
+    {
+        "index": "025",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_157"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_164"
+        }
+    },
+    {
+        "index": "026",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_165"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_172"
+        }
+    },
+    {
+        "index": "027",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_173"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_177"
+        }
+    },
+    {
+        "index": "028",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_178"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_184"
+        }
+    },
+    {
+        "index": "029",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_185"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_187"
+        }
+    },
+    {
+        "index": "030",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_188"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_193"
+        }
+    },
+    {
+        "index": "031",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_194"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_197"
+        }
+    },
+    {
+        "index": "032",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_198"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_203"
+        }
+    },
+    {
+        "index": "033",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_204"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_211"
+        }
+    },
+    {
+        "index": "034",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_212"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_215"
+        }
+    },
+    {
+        "index": "035",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_216"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_219"
+        }
+    },
+    {
+        "index": "036",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_220"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_224"
+        }
+    },
+    {
+        "index": "037",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_225"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_229"
+        }
+    },
+    {
+        "index": "038",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_230"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_232"
+        }
+    },
+    {
+        "index": "039",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_233"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_235"
+        }
+    },
+    {
+        "index": "040",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_236"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_242"
+        }
+    },
+    {
+        "index": "041",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_243"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_247"
+        }
+    },
+    {
+        "index": "042",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_248"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_252"
+        }
+    },
+    {
+        "index": "043",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_253"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_256"
+        }
+    },
+    {
+        "index": "044",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_257"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_259"
+        }
+    },
+    {
+        "index": "045",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_260"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_264"
+        }
+    },
+    {
+        "index": "046",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_265"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_269"
+        }
+    },
+    {
+        "index": "047",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_270"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_274"
+        }
+    },
+    {
+        "index": "048",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_275"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_281"
+        }
+    },
+    {
+        "index": "049",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_282"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_282"
+        }
+    },
+    {
+        "index": "050",
+        "start": {
+            "surah": "surah_2",
+            "verse": "verse_283"
+        },
+        "end": {
+            "surah": "surah_2",
+            "verse": "verse_286"
+        }
+    },
+    {
+        "index": "051",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_8"
+        }
+    },
+    {
+        "index": "052",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_9"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_15"
+        }
+    },
+    {
+        "index": "053",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_16"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_22"
+        }
+    },
+    {
+        "index": "054",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_23"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_29"
+        }
+    },
+    {
+        "index": "055",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_30"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_37"
+        }
+    },
+    {
+        "index": "056",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_38"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_45"
+        }
+    },
+    {
+        "index": "057",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_46"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_53"
+        }
+    },
+    {
+        "index": "058",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_54"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_62"
+        }
+    },
+    {
+        "index": "059",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_63"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_70"
+        }
+    },
+    {
+        "index": "060",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_71"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_77"
+        }
+    },
+    {
+        "index": "061",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_78"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_83"
+        }
+    },
+    {
+        "index": "062",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_84"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_91"
+        }
+    },
+    {
+        "index": "063",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_92"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_100"
+        }
+    },
+    {
+        "index": "064",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_101"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_108"
+        }
+    },
+    {
+        "index": "065",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_109"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_115"
+        }
+    },
+    {
+        "index": "066",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_116"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_121"
+        }
+    },
+    {
+        "index": "067",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_122"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_132"
+        }
+    },
+    {
+        "index": "068",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_133"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_140"
+        }
+    },
+    {
+        "index": "069",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_141"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_147"
+        }
+    },
+    {
+        "index": "070",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_148"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_153"
+        }
+    },
+    {
+        "index": "071",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_154"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_157"
+        }
+    },
+    {
+        "index": "072",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_158"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_165"
+        }
+    },
+    {
+        "index": "073",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_166"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_173"
+        }
+    },
+    {
+        "index": "074",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_174"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_180"
+        }
+    },
+    {
+        "index": "075",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_181"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_186"
+        }
+    },
+    {
+        "index": "076",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_187"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_193"
+        }
+    },
+    {
+        "index": "077",
+        "start": {
+            "surah": "surah_3",
+            "verse": "verse_194"
+        },
+        "end": {
+            "surah": "surah_3",
+            "verse": "verse_200"
+        }
+    },
+    {
+        "index": "078",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_5"
+        }
+    },
+    {
+        "index": "079",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_6"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_10"
+        }
+    },
+    {
+        "index": "080",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_11"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_12"
+        }
+    },
+    {
+        "index": "081",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_13"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_18"
+        }
+    },
+    {
+        "index": "082",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_19"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_23"
+        }
+    },
+    {
+        "index": "083",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_24"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_28"
+        }
+    },
+    {
+        "index": "084",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_29"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_34"
+        }
+    },
+    {
+        "index": "085",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_35"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_41"
+        }
+    },
+    {
+        "index": "086",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_42"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_46"
+        }
+    },
+    {
+        "index": "087",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_47"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_54"
+        }
+    },
+    {
+        "index": "088",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_55"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_60"
+        }
+    },
+    {
+        "index": "089",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_61"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_68"
+        }
+    },
+    {
+        "index": "090",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_69"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_75"
+        }
+    },
+    {
+        "index": "091",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_76"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_80"
+        }
+    },
+    {
+        "index": "092",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_81"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_87"
+        }
+    },
+    {
+        "index": "093",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_88"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_91"
+        }
+    },
+    {
+        "index": "094",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_92"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_95"
+        }
+    },
+    {
+        "index": "095",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_96"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_101"
+        }
+    },
+    {
+        "index": "096",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_102"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_105"
+        }
+    },
+    {
+        "index": "097",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_106"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_113"
+        }
+    },
+    {
+        "index": "098",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_114"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_121"
+        }
+    },
+    {
+        "index": "099",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_122"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_127"
+        }
+    },
+    {
+        "index": "100",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_128"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_134"
+        }
+    },
+    {
+        "index": "101",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_135"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_140"
+        }
+    },
+    {
+        "index": "102",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_141"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_147"
+        }
+    },
+    {
+        "index": "103",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_148"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_154"
+        }
+    },
+    {
+        "index": "104",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_155"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_162"
+        }
+    },
+    {
+        "index": "105",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_163"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_170"
+        }
+    },
+    {
+        "index": "106",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_171"
+        },
+        "end": {
+            "surah": "surah_4",
+            "verse": "verse_175"
+        }
+    },
+    {
+        "index": "107",
+        "start": {
+            "surah": "surah_4",
+            "verse": "verse_176"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_2"
+        }
+    },
+    {
+        "index": "108",
+        "start": {
+            "surah": "surah_5",
+            "verse": "verse_3"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_5"
+        }
+    },
+    {
+        "index": "109",
+        "start": {
+            "surah": "surah_5",
+            "verse": "verse_6"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_9"
+        }
+    },
+    {
+        "index": "110",
+        "start": {
+            "surah": "surah_5",
+            "verse": "verse_10"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_13"
+        }
+    },
+    {
+        "index": "111",
+        "start": {
+            "surah": "surah_5",
+            "verse": "verse_14"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_17"
+        }
+    },
+    {
+        "index": "112",
+        "start": {
+            "surah": "surah_5",
+            "verse": "verse_18"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_23"
+        }
+    },
+    {
+        "index": "113",
+        "start": {
+            "surah": "surah_5",
+            "verse": "verse_24"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_31"
+        }
+    },
+    {
+        "index": "114",
+        "start": {
+            "surah": "surah_5",
+            "verse": "verse_32"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_36"
+        }
+    },
+    {
+        "index": "115",
+        "start": {
+            "surah": "surah_5",
+            "verse": "verse_37"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_41"
+        }
+    },
+    {
+        "index": "116",
+        "start": {
+            "surah": "surah_5",
+            "verse": "verse_42"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_45"
+        }
+    },
+    {
+        "index": "117",
+        "start": {
+            "surah": "surah_5",
+            "verse": "verse_46"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_50"
+        }
+    },
+    {
+        "index": "118",
+        "start": {
+            "surah": "surah_5",
+            "verse": "verse_51"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_56"
+        }
+    },
+    {
+        "index": "119",
+        "start": {
+            "surah": "surah_5",
+            "verse": "verse_57"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_63"
+        }
+    },
+    {
+        "index": "120",
+        "start": {
+            "surah": "surah_5",
+            "verse": "verse_64"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_68"
+        }
+    },
+    {
+        "index": "121",
+        "start": {
+            "surah": "surah_5",
+            "verse": "verse_69"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_75"
+        }
+    },
+    {
+        "index": "122",
+        "start": {
+            "surah": "surah_5",
+            "verse": "verse_76"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_82"
+        }
+    },
+    {
+        "index": "123",
+        "start": {
+            "surah": "surah_5",
+            "verse": "verse_83"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_89"
+        }
+    },
+    {
+        "index": "124",
+        "start": {
+            "surah": "surah_5",
+            "verse": "verse_90"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_95"
+        }
+    },
+    {
+        "index": "125",
+        "start": {
+            "surah": "surah_5",
+            "verse": "verse_96"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_103"
+        }
+    },
+    {
+        "index": "126",
+        "start": {
+            "surah": "surah_5",
+            "verse": "verse_104"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_108"
+        }
+    },
+    {
+        "index": "127",
+        "start": {
+            "surah": "surah_5",
+            "verse": "verse_109"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_113"
+        }
+    },
+    {
+        "index": "128",
+        "start": {
+            "surah": "surah_5",
+            "verse": "verse_114"
+        },
+        "end": {
+            "surah": "surah_5",
+            "verse": "verse_120"
+        }
+    },
+    {
+        "index": "129",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_8"
+        }
+    },
+    {
+        "index": "130",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_9"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_18"
+        }
+    },
+    {
+        "index": "131",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_19"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_26"
+        }
+    },
+    {
+        "index": "132",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_27"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_34"
+        }
+    },
+    {
+        "index": "133",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_35"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_43"
+        }
+    },
+    {
+        "index": "134",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_44"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_51"
+        }
+    },
+    {
+        "index": "135",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_52"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_58"
+        }
+    },
+    {
+        "index": "136",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_59"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_67"
+        }
+    },
+    {
+        "index": "137",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_68"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_73"
+        }
+    },
+    {
+        "index": "138",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_74"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_81"
+        }
+    },
+    {
+        "index": "139",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_82"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_90"
+        }
+    },
+    {
+        "index": "140",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_91"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_94"
+        }
+    },
+    {
+        "index": "141",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_95"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_101"
+        }
+    },
+    {
+        "index": "142",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_102"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_110"
+        }
+    },
+    {
+        "index": "143",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_111"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_118"
+        }
+    },
+    {
+        "index": "144",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_119"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_124"
+        }
+    },
+    {
+        "index": "145",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_125"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_130"
+        }
+    },
+    {
+        "index": "146",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_131"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_137"
+        }
+    },
+    {
+        "index": "147",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_138"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_142"
+        }
+    },
+    {
+        "index": "148",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_143"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_146"
+        }
+    },
+    {
+        "index": "149",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_147"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_151"
+        }
+    },
+    {
+        "index": "150",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_152"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_157"
+        }
+    },
+    {
+        "index": "151",
+        "start": {
+            "surah": "surah_6",
+            "verse": "verse_158"
+        },
+        "end": {
+            "surah": "surah_6",
+            "verse": "verse_165"
+        }
+    },
+    {
+        "index": "152",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_11"
+        }
+    },
+    {
+        "index": "153",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_12"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_22"
+        }
+    },
+    {
+        "index": "154",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_23"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_30"
+        }
+    },
+    {
+        "index": "155",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_31"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_37"
+        }
+    },
+    {
+        "index": "156",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_38"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_43"
+        }
+    },
+    {
+        "index": "157",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_44"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_51"
+        }
+    },
+    {
+        "index": "158",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_52"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_57"
+        }
+    },
+    {
+        "index": "159",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_58"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_67"
+        }
+    },
+    {
+        "index": "160",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_68"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_73"
+        }
+    },
+    {
+        "index": "161",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_74"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_81"
+        }
+    },
+    {
+        "index": "162",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_82"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_87"
+        }
+    },
+    {
+        "index": "163",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_88"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_95"
+        }
+    },
+    {
+        "index": "164",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_96"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_104"
+        }
+    },
+    {
+        "index": "165",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_105"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_121"
+        }
+    },
+    {
+        "index": "166",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_122"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_130"
+        }
+    },
+    {
+        "index": "167",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_131"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_137"
+        }
+    },
+    {
+        "index": "168",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_138"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_143"
+        }
+    },
+    {
+        "index": "169",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_144"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_149"
+        }
+    },
+    {
+        "index": "170",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_150"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_155"
+        }
+    },
+    {
+        "index": "171",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_156"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_159"
+        }
+    },
+    {
+        "index": "172",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_160"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_163"
+        }
+    },
+    {
+        "index": "173",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_164"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_170"
+        }
+    },
+    {
+        "index": "174",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_171"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_178"
+        }
+    },
+    {
+        "index": "175",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_179"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_187"
+        }
+    },
+    {
+        "index": "176",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_188"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_195"
+        }
+    },
+    {
+        "index": "177",
+        "start": {
+            "surah": "surah_7",
+            "verse": "verse_196"
+        },
+        "end": {
+            "surah": "surah_7",
+            "verse": "verse_206"
+        }
+    },
+    {
+        "index": "178",
+        "start": {
+            "surah": "surah_8",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_8",
+            "verse": "verse_8"
+        }
+    },
+    {
+        "index": "179",
+        "start": {
+            "surah": "surah_8",
+            "verse": "verse_9"
+        },
+        "end": {
+            "surah": "surah_8",
+            "verse": "verse_16"
+        }
+    },
+    {
+        "index": "180",
+        "start": {
+            "surah": "surah_8",
+            "verse": "verse_17"
+        },
+        "end": {
+            "surah": "surah_8",
+            "verse": "verse_25"
+        }
+    },
+    {
+        "index": "181",
+        "start": {
+            "surah": "surah_8",
+            "verse": "verse_26"
+        },
+        "end": {
+            "surah": "surah_8",
+            "verse": "verse_33"
+        }
+    },
+    {
+        "index": "182",
+        "start": {
+            "surah": "surah_8",
+            "verse": "verse_34"
+        },
+        "end": {
+            "surah": "surah_8",
+            "verse": "verse_40"
+        }
+    },
+    {
+        "index": "183",
+        "start": {
+            "surah": "surah_8",
+            "verse": "verse_41"
+        },
+        "end": {
+            "surah": "surah_8",
+            "verse": "verse_45"
+        }
+    },
+    {
+        "index": "184",
+        "start": {
+            "surah": "surah_8",
+            "verse": "verse_46"
+        },
+        "end": {
+            "surah": "surah_8",
+            "verse": "verse_52"
+        }
+    },
+    {
+        "index": "185",
+        "start": {
+            "surah": "surah_8",
+            "verse": "verse_53"
+        },
+        "end": {
+            "surah": "surah_8",
+            "verse": "verse_61"
+        }
+    },
+    {
+        "index": "186",
+        "start": {
+            "surah": "surah_8",
+            "verse": "verse_62"
+        },
+        "end": {
+            "surah": "surah_8",
+            "verse": "verse_69"
+        }
+    },
+    {
+        "index": "187",
+        "start": {
+            "surah": "surah_8",
+            "verse": "verse_70"
+        },
+        "end": {
+            "surah": "surah_8",
+            "verse": "verse_75"
+        }
+    },
+    {
+        "index": "188",
+        "start": {
+            "surah": "surah_9",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_9",
+            "verse": "verse_6"
+        }
+    },
+    {
+        "index": "189",
+        "start": {
+            "surah": "surah_9",
+            "verse": "verse_7"
+        },
+        "end": {
+            "surah": "surah_9",
+            "verse": "verse_13"
+        }
+    },
+    {
+        "index": "190",
+        "start": {
+            "surah": "surah_9",
+            "verse": "verse_14"
+        },
+        "end": {
+            "surah": "surah_9",
+            "verse": "verse_20"
+        }
+    },
+    {
+        "index": "191",
+        "start": {
+            "surah": "surah_9",
+            "verse": "verse_21"
+        },
+        "end": {
+            "surah": "surah_9",
+            "verse": "verse_26"
+        }
+    },
+    {
+        "index": "192",
+        "start": {
+            "surah": "surah_9",
+            "verse": "verse_27"
+        },
+        "end": {
+            "surah": "surah_9",
+            "verse": "verse_31"
+        }
+    },
+    {
+        "index": "193",
+        "start": {
+            "surah": "surah_9",
+            "verse": "verse_32"
+        },
+        "end": {
+            "surah": "surah_9",
+            "verse": "verse_36"
+        }
+    },
+    {
+        "index": "194",
+        "start": {
+            "surah": "surah_9",
+            "verse": "verse_37"
+        },
+        "end": {
+            "surah": "surah_9",
+            "verse": "verse_41"
+        }
+    },
+    {
+        "index": "195",
+        "start": {
+            "surah": "surah_9",
+            "verse": "verse_42"
+        },
+        "end": {
+            "surah": "surah_9",
+            "verse": "verse_47"
+        }
+    },
+    {
+        "index": "196",
+        "start": {
+            "surah": "surah_9",
+            "verse": "verse_48"
+        },
+        "end": {
+            "surah": "surah_9",
+            "verse": "verse_54"
+        }
+    },
+    {
+        "index": "197",
+        "start": {
+            "surah": "surah_9",
+            "verse": "verse_55"
+        },
+        "end": {
+            "surah": "surah_9",
+            "verse": "verse_61"
+        }
+    },
+    {
+        "index": "198",
+        "start": {
+            "surah": "surah_9",
+            "verse": "verse_62"
+        },
+        "end": {
+            "surah": "surah_9",
+            "verse": "verse_68"
+        }
+    },
+    {
+        "index": "199",
+        "start": {
+            "surah": "surah_9",
+            "verse": "verse_69"
+        },
+        "end": {
+            "surah": "surah_9",
+            "verse": "verse_72"
+        }
+    },
+    {
+        "index": "200",
+        "start": {
+            "surah": "surah_9",
+            "verse": "verse_73"
+        },
+        "end": {
+            "surah": "surah_9",
+            "verse": "verse_79"
+        }
+    },
+    {
+        "index": "201",
+        "start": {
+            "surah": "surah_9",
+            "verse": "verse_80"
+        },
+        "end": {
+            "surah": "surah_9",
+            "verse": "verse_86"
+        }
+    },
+    {
+        "index": "202",
+        "start": {
+            "surah": "surah_9",
+            "verse": "verse_87"
+        },
+        "end": {
+            "surah": "surah_9",
+            "verse": "verse_93"
+        }
+    },
+    {
+        "index": "203",
+        "start": {
+            "surah": "surah_9",
+            "verse": "verse_94"
+        },
+        "end": {
+            "surah": "surah_9",
+            "verse": "verse_99"
+        }
+    },
+    {
+        "index": "204",
+        "start": {
+            "surah": "surah_9",
+            "verse": "verse_100"
+        },
+        "end": {
+            "surah": "surah_9",
+            "verse": "verse_106"
+        }
+    },
+    {
+        "index": "205",
+        "start": {
+            "surah": "surah_9",
+            "verse": "verse_107"
+        },
+        "end": {
+            "surah": "surah_9",
+            "verse": "verse_111"
+        }
+    },
+    {
+        "index": "206",
+        "start": {
+            "surah": "surah_9",
+            "verse": "verse_112"
+        },
+        "end": {
+            "surah": "surah_9",
+            "verse": "verse_117"
+        }
+    },
+    {
+        "index": "207",
+        "start": {
+            "surah": "surah_9",
+            "verse": "verse_118"
+        },
+        "end": {
+            "surah": "surah_9",
+            "verse": "verse_122"
+        }
+    },
+    {
+        "index": "208",
+        "start": {
+            "surah": "surah_9",
+            "verse": "verse_123"
+        },
+        "end": {
+            "surah": "surah_9",
+            "verse": "verse_129"
+        }
+    },
+    {
+        "index": "209",
+        "start": {
+            "surah": "surah_10",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_10",
+            "verse": "verse_6"
+        }
+    },
+    {
+        "index": "210",
+        "start": {
+            "surah": "surah_10",
+            "verse": "verse_7"
+        },
+        "end": {
+            "surah": "surah_10",
+            "verse": "verse_14"
+        }
+    },
+    {
+        "index": "211",
+        "start": {
+            "surah": "surah_10",
+            "verse": "verse_15"
+        },
+        "end": {
+            "surah": "surah_10",
+            "verse": "verse_20"
+        }
+    },
+    {
+        "index": "212",
+        "start": {
+            "surah": "surah_10",
+            "verse": "verse_21"
+        },
+        "end": {
+            "surah": "surah_10",
+            "verse": "verse_25"
+        }
+    },
+    {
+        "index": "213",
+        "start": {
+            "surah": "surah_10",
+            "verse": "verse_26"
+        },
+        "end": {
+            "surah": "surah_10",
+            "verse": "verse_33"
+        }
+    },
+    {
+        "index": "214",
+        "start": {
+            "surah": "surah_10",
+            "verse": "verse_34"
+        },
+        "end": {
+            "surah": "surah_10",
+            "verse": "verse_41"
+        }
+    },
+    {
+        "index": "215",
+        "start": {
+            "surah": "surah_10",
+            "verse": "verse_42"
+        },
+        "end": {
+            "surah": "surah_10",
+            "verse": "verse_52"
+        }
+    },
+    {
+        "index": "216",
+        "start": {
+            "surah": "surah_10",
+            "verse": "verse_53"
+        },
+        "end": {
+            "surah": "surah_10",
+            "verse": "verse_61"
+        }
+    },
+    {
+        "index": "217",
+        "start": {
+            "surah": "surah_10",
+            "verse": "verse_62"
+        },
+        "end": {
+            "surah": "surah_10",
+            "verse": "verse_70"
+        }
+    },
+    {
+        "index": "218",
+        "start": {
+            "surah": "surah_10",
+            "verse": "verse_71"
+        },
+        "end": {
+            "surah": "surah_10",
+            "verse": "verse_78"
+        }
+    },
+    {
+        "index": "219",
+        "start": {
+            "surah": "surah_10",
+            "verse": "verse_79"
+        },
+        "end": {
+            "surah": "surah_10",
+            "verse": "verse_88"
+        }
+    },
+    {
+        "index": "220",
+        "start": {
+            "surah": "surah_10",
+            "verse": "verse_89"
+        },
+        "end": {
+            "surah": "surah_10",
+            "verse": "verse_97"
+        }
+    },
+    {
+        "index": "221",
+        "start": {
+            "surah": "surah_10",
+            "verse": "verse_98"
+        },
+        "end": {
+            "surah": "surah_10",
+            "verse": "verse_106"
+        }
+    },
+    {
+        "index": "222",
+        "start": {
+            "surah": "surah_10",
+            "verse": "verse_107"
+        },
+        "end": {
+            "surah": "surah_11",
+            "verse": "verse_5"
+        }
+    },
+    {
+        "index": "223",
+        "start": {
+            "surah": "surah_11",
+            "verse": "verse_6"
+        },
+        "end": {
+            "surah": "surah_11",
+            "verse": "verse_12"
+        }
+    },
+    {
+        "index": "224",
+        "start": {
+            "surah": "surah_11",
+            "verse": "verse_13"
+        },
+        "end": {
+            "surah": "surah_11",
+            "verse": "verse_19"
+        }
+    },
+    {
+        "index": "225",
+        "start": {
+            "surah": "surah_11",
+            "verse": "verse_20"
+        },
+        "end": {
+            "surah": "surah_11",
+            "verse": "verse_28"
+        }
+    },
+    {
+        "index": "226",
+        "start": {
+            "surah": "surah_11",
+            "verse": "verse_29"
+        },
+        "end": {
+            "surah": "surah_11",
+            "verse": "verse_37"
+        }
+    },
+    {
+        "index": "227",
+        "start": {
+            "surah": "surah_11",
+            "verse": "verse_38"
+        },
+        "end": {
+            "surah": "surah_11",
+            "verse": "verse_45"
+        }
+    },
+    {
+        "index": "228",
+        "start": {
+            "surah": "surah_11",
+            "verse": "verse_46"
+        },
+        "end": {
+            "surah": "surah_11",
+            "verse": "verse_53"
+        }
+    },
+    {
+        "index": "229",
+        "start": {
+            "surah": "surah_11",
+            "verse": "verse_54"
+        },
+        "end": {
+            "surah": "surah_11",
+            "verse": "verse_62"
+        }
+    },
+    {
+        "index": "230",
+        "start": {
+            "surah": "surah_11",
+            "verse": "verse_63"
+        },
+        "end": {
+            "surah": "surah_11",
+            "verse": "verse_72"
+        }
+    },
+    {
+        "index": "231",
+        "start": {
+            "surah": "surah_11",
+            "verse": "verse_73"
+        },
+        "end": {
+            "surah": "surah_11",
+            "verse": "verse_81"
+        }
+    },
+    {
+        "index": "232",
+        "start": {
+            "surah": "surah_11",
+            "verse": "verse_82"
+        },
+        "end": {
+            "surah": "surah_11",
+            "verse": "verse_88"
+        }
+    },
+    {
+        "index": "233",
+        "start": {
+            "surah": "surah_11",
+            "verse": "verse_89"
+        },
+        "end": {
+            "surah": "surah_11",
+            "verse": "verse_97"
+        }
+    },
+    {
+        "index": "234",
+        "start": {
+            "surah": "surah_11",
+            "verse": "verse_98"
+        },
+        "end": {
+            "surah": "surah_11",
+            "verse": "verse_108"
+        }
+    },
+    {
+        "index": "235",
+        "start": {
+            "surah": "surah_11",
+            "verse": "verse_109"
+        },
+        "end": {
+            "surah": "surah_11",
+            "verse": "verse_117"
+        }
+    },
+    {
+        "index": "236",
+        "start": {
+            "surah": "surah_11",
+            "verse": "verse_118"
+        },
+        "end": {
+            "surah": "surah_12",
+            "verse": "verse_4"
+        }
+    },
+    {
+        "index": "237",
+        "start": {
+            "surah": "surah_12",
+            "verse": "verse_5"
+        },
+        "end": {
+            "surah": "surah_12",
+            "verse": "verse_14"
+        }
+    },
+    {
+        "index": "238",
+        "start": {
+            "surah": "surah_12",
+            "verse": "verse_15"
+        },
+        "end": {
+            "surah": "surah_12",
+            "verse": "verse_22"
+        }
+    },
+    {
+        "index": "239",
+        "start": {
+            "surah": "surah_12",
+            "verse": "verse_23"
+        },
+        "end": {
+            "surah": "surah_12",
+            "verse": "verse_30"
+        }
+    },
+    {
+        "index": "240",
+        "start": {
+            "surah": "surah_12",
+            "verse": "verse_31"
+        },
+        "end": {
+            "surah": "surah_12",
+            "verse": "verse_37"
+        }
+    },
+    {
+        "index": "241",
+        "start": {
+            "surah": "surah_12",
+            "verse": "verse_38"
+        },
+        "end": {
+            "surah": "surah_12",
+            "verse": "verse_43"
+        }
+    },
+    {
+        "index": "242",
+        "start": {
+            "surah": "surah_12",
+            "verse": "verse_44"
+        },
+        "end": {
+            "surah": "surah_12",
+            "verse": "verse_52"
+        }
+    },
+    {
+        "index": "243",
+        "start": {
+            "surah": "surah_12",
+            "verse": "verse_53"
+        },
+        "end": {
+            "surah": "surah_12",
+            "verse": "verse_63"
+        }
+    },
+    {
+        "index": "244",
+        "start": {
+            "surah": "surah_12",
+            "verse": "verse_64"
+        },
+        "end": {
+            "surah": "surah_12",
+            "verse": "verse_69"
+        }
+    },
+    {
+        "index": "245",
+        "start": {
+            "surah": "surah_12",
+            "verse": "verse_70"
+        },
+        "end": {
+            "surah": "surah_12",
+            "verse": "verse_78"
+        }
+    },
+    {
+        "index": "246",
+        "start": {
+            "surah": "surah_12",
+            "verse": "verse_79"
+        },
+        "end": {
+            "surah": "surah_12",
+            "verse": "verse_86"
+        }
+    },
+    {
+        "index": "247",
+        "start": {
+            "surah": "surah_12",
+            "verse": "verse_87"
+        },
+        "end": {
+            "surah": "surah_12",
+            "verse": "verse_95"
+        }
+    },
+    {
+        "index": "248",
+        "start": {
+            "surah": "surah_12",
+            "verse": "verse_96"
+        },
+        "end": {
+            "surah": "surah_12",
+            "verse": "verse_102"
+        }
+    },
+    {
+        "index": "249",
+        "start": {
+            "surah": "surah_12",
+            "verse": "verse_103"
+        },
+        "end": {
+            "surah": "surah_12",
+            "verse": "verse_111"
+        }
+    },
+    {
+        "index": "250",
+        "start": {
+            "surah": "surah_13",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_13",
+            "verse": "verse_5"
+        }
+    },
+    {
+        "index": "251",
+        "start": {
+            "surah": "surah_13",
+            "verse": "verse_6"
+        },
+        "end": {
+            "surah": "surah_13",
+            "verse": "verse_13"
+        }
+    },
+    {
+        "index": "252",
+        "start": {
+            "surah": "surah_13",
+            "verse": "verse_14"
+        },
+        "end": {
+            "surah": "surah_13",
+            "verse": "verse_17"
+        }
+    },
+    {
+        "index": "253",
+        "start": {
+            "surah": "surah_13",
+            "verse": "verse_18"
+        },
+        "end": {
+            "surah": "surah_13",
+            "verse": "verse_26"
+        }
+    },
+    {
+        "index": "254",
+        "start": {
+            "surah": "surah_13",
+            "verse": "verse_27"
+        },
+        "end": {
+            "surah": "surah_13",
+            "verse": "verse_33"
+        }
+    },
+    {
+        "index": "255",
+        "start": {
+            "surah": "surah_13",
+            "verse": "verse_34"
+        },
+        "end": {
+            "surah": "surah_13",
+            "verse": "verse_41"
+        }
+    },
+    {
+        "index": "256",
+        "start": {
+            "surah": "surah_13",
+            "verse": "verse_42"
+        },
+        "end": {
+            "surah": "surah_14",
+            "verse": "verse_5"
+        }
+    },
+    {
+        "index": "257",
+        "start": {
+            "surah": "surah_14",
+            "verse": "verse_6"
+        },
+        "end": {
+            "surah": "surah_14",
+            "verse": "verse_10"
+        }
+    },
+    {
+        "index": "258",
+        "start": {
+            "surah": "surah_14",
+            "verse": "verse_11"
+        },
+        "end": {
+            "surah": "surah_14",
+            "verse": "verse_20"
+        }
+    },
+    {
+        "index": "259",
+        "start": {
+            "surah": "surah_14",
+            "verse": "verse_21"
+        },
+        "end": {
+            "surah": "surah_14",
+            "verse": "verse_26"
+        }
+    },
+    {
+        "index": "260",
+        "start": {
+            "surah": "surah_14",
+            "verse": "verse_27"
+        },
+        "end": {
+            "surah": "surah_14",
+            "verse": "verse_35"
+        }
+    },
+    {
+        "index": "261",
+        "start": {
+            "surah": "surah_14",
+            "verse": "verse_36"
+        },
+        "end": {
+            "surah": "surah_14",
+            "verse": "verse_43"
+        }
+    },
+    {
+        "index": "262",
+        "start": {
+            "surah": "surah_14",
+            "verse": "verse_44"
+        },
+        "end": {
+            "surah": "surah_15",
+            "verse": "verse_1"
+        }
+    },
+    {
+        "index": "263",
+        "start": {
+            "surah": "surah_15",
+            "verse": "verse_2"
+        },
+        "end": {
+            "surah": "surah_15",
+            "verse": "verse_18"
+        }
+    },
+    {
+        "index": "264",
+        "start": {
+            "surah": "surah_15",
+            "verse": "verse_19"
+        },
+        "end": {
+            "surah": "surah_15",
+            "verse": "verse_33"
+        }
+    },
+    {
+        "index": "265",
+        "start": {
+            "surah": "surah_15",
+            "verse": "verse_34"
+        },
+        "end": {
+            "surah": "surah_15",
+            "verse": "verse_52"
+        }
+    },
+    {
+        "index": "266",
+        "start": {
+            "surah": "surah_15",
+            "verse": "verse_53"
+        },
+        "end": {
+            "surah": "surah_15",
+            "verse": "verse_72"
+        }
+    },
+    {
+        "index": "267",
+        "start": {
+            "surah": "surah_15",
+            "verse": "verse_73"
+        },
+        "end": {
+            "surah": "surah_15",
+            "verse": "verse_90"
+        }
+    },
+    {
+        "index": "268",
+        "start": {
+            "surah": "surah_15",
+            "verse": "verse_91"
+        },
+        "end": {
+            "surah": "surah_16",
+            "verse": "verse_6"
+        }
+    },
+    {
+        "index": "269",
+        "start": {
+            "surah": "surah_16",
+            "verse": "verse_7"
+        },
+        "end": {
+            "surah": "surah_16",
+            "verse": "verse_14"
+        }
+    },
+    {
+        "index": "270",
+        "start": {
+            "surah": "surah_16",
+            "verse": "verse_15"
+        },
+        "end": {
+            "surah": "surah_16",
+            "verse": "verse_26"
+        }
+    },
+    {
+        "index": "271",
+        "start": {
+            "surah": "surah_16",
+            "verse": "verse_27"
+        },
+        "end": {
+            "surah": "surah_16",
+            "verse": "verse_34"
+        }
+    },
+    {
+        "index": "272",
+        "start": {
+            "surah": "surah_16",
+            "verse": "verse_35"
+        },
+        "end": {
+            "surah": "surah_16",
+            "verse": "verse_42"
+        }
+    },
+    {
+        "index": "273",
+        "start": {
+            "surah": "surah_16",
+            "verse": "verse_43"
+        },
+        "end": {
+            "surah": "surah_16",
+            "verse": "verse_54"
+        }
+    },
+    {
+        "index": "274",
+        "start": {
+            "surah": "surah_16",
+            "verse": "verse_55"
+        },
+        "end": {
+            "surah": "surah_16",
+            "verse": "verse_64"
+        }
+    },
+    {
+        "index": "275",
+        "start": {
+            "surah": "surah_16",
+            "verse": "verse_65"
+        },
+        "end": {
+            "surah": "surah_16",
+            "verse": "verse_72"
+        }
+    },
+    {
+        "index": "276",
+        "start": {
+            "surah": "surah_16",
+            "verse": "verse_73"
+        },
+        "end": {
+            "surah": "surah_16",
+            "verse": "verse_79"
+        }
+    },
+    {
+        "index": "277",
+        "start": {
+            "surah": "surah_16",
+            "verse": "verse_80"
+        },
+        "end": {
+            "surah": "surah_16",
+            "verse": "verse_87"
+        }
+    },
+    {
+        "index": "278",
+        "start": {
+            "surah": "surah_16",
+            "verse": "verse_88"
+        },
+        "end": {
+            "surah": "surah_16",
+            "verse": "verse_93"
+        }
+    },
+    {
+        "index": "279",
+        "start": {
+            "surah": "surah_16",
+            "verse": "verse_94"
+        },
+        "end": {
+            "surah": "surah_16",
+            "verse": "verse_102"
+        }
+    },
+    {
+        "index": "280",
+        "start": {
+            "surah": "surah_16",
+            "verse": "verse_103"
+        },
+        "end": {
+            "surah": "surah_16",
+            "verse": "verse_111"
+        }
+    },
+    {
+        "index": "281",
+        "start": {
+            "surah": "surah_16",
+            "verse": "verse_112"
+        },
+        "end": {
+            "surah": "surah_16",
+            "verse": "verse_118"
+        }
+    },
+    {
+        "index": "282",
+        "start": {
+            "surah": "surah_16",
+            "verse": "verse_119"
+        },
+        "end": {
+            "surah": "surah_16",
+            "verse": "verse_128"
+        }
+    },
+    {
+        "index": "283",
+        "start": {
+            "surah": "surah_17",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_17",
+            "verse": "verse_7"
+        }
+    },
+    {
+        "index": "284",
+        "start": {
+            "surah": "surah_17",
+            "verse": "verse_8"
+        },
+        "end": {
+            "surah": "surah_17",
+            "verse": "verse_17"
+        }
+    },
+    {
+        "index": "285",
+        "start": {
+            "surah": "surah_17",
+            "verse": "verse_18"
+        },
+        "end": {
+            "surah": "surah_17",
+            "verse": "verse_29"
+        }
+    },
+    {
+        "index": "286",
+        "start": {
+            "surah": "surah_17",
+            "verse": "verse_30"
+        },
+        "end": {
+            "surah": "surah_17",
+            "verse": "verse_40"
+        }
+    },
+    {
+        "index": "287",
+        "start": {
+            "surah": "surah_17",
+            "verse": "verse_41"
+        },
+        "end": {
+            "surah": "surah_17",
+            "verse": "verse_51"
+        }
+    },
+    {
+        "index": "288",
+        "start": {
+            "surah": "surah_17",
+            "verse": "verse_52"
+        },
+        "end": {
+            "surah": "surah_17",
+            "verse": "verse_60"
+        }
+    },
+    {
+        "index": "289",
+        "start": {
+            "surah": "surah_17",
+            "verse": "verse_61"
+        },
+        "end": {
+            "surah": "surah_17",
+            "verse": "verse_69"
+        }
+    },
+    {
+        "index": "290",
+        "start": {
+            "surah": "surah_17",
+            "verse": "verse_70"
+        },
+        "end": {
+            "surah": "surah_17",
+            "verse": "verse_80"
+        }
+    },
+    {
+        "index": "291",
+        "start": {
+            "surah": "surah_17",
+            "verse": "verse_81"
+        },
+        "end": {
+            "surah": "surah_17",
+            "verse": "verse_92"
+        }
+    },
+    {
+        "index": "292",
+        "start": {
+            "surah": "surah_17",
+            "verse": "verse_93"
+        },
+        "end": {
+            "surah": "surah_17",
+            "verse": "verse_100"
+        }
+    },
+    {
+        "index": "293",
+        "start": {
+            "surah": "surah_17",
+            "verse": "verse_101"
+        },
+        "end": {
+            "surah": "surah_17",
+            "verse": "verse_111"
+        }
+    },
+    {
+        "index": "294",
+        "start": {
+            "surah": "surah_18",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_18",
+            "verse": "verse_11"
+        }
+    },
+    {
+        "index": "295",
+        "start": {
+            "surah": "surah_18",
+            "verse": "verse_12"
+        },
+        "end": {
+            "surah": "surah_18",
+            "verse": "verse_18"
+        }
+    },
+    {
+        "index": "296",
+        "start": {
+            "surah": "surah_18",
+            "verse": "verse_19"
+        },
+        "end": {
+            "surah": "surah_18",
+            "verse": "verse_22"
+        }
+    },
+    {
+        "index": "297",
+        "start": {
+            "surah": "surah_18",
+            "verse": "verse_23"
+        },
+        "end": {
+            "surah": "surah_18",
+            "verse": "verse_29"
+        }
+    },
+    {
+        "index": "298",
+        "start": {
+            "surah": "surah_18",
+            "verse": "verse_30"
+        },
+        "end": {
+            "surah": "surah_18",
+            "verse": "verse_38"
+        }
+    },
+    {
+        "index": "299",
+        "start": {
+            "surah": "surah_18",
+            "verse": "verse_39"
+        },
+        "end": {
+            "surah": "surah_18",
+            "verse": "verse_47"
+        }
+    },
+    {
+        "index": "300",
+        "start": {
+            "surah": "surah_18",
+            "verse": "verse_48"
+        },
+        "end": {
+            "surah": "surah_18",
+            "verse": "verse_54"
+        }
+    },
+    {
+        "index": "301",
+        "start": {
+            "surah": "surah_18",
+            "verse": "verse_55"
+        },
+        "end": {
+            "surah": "surah_18",
+            "verse": "verse_62"
+        }
+    },
+    {
+        "index": "302",
+        "start": {
+            "surah": "surah_18",
+            "verse": "verse_63"
+        },
+        "end": {
+            "surah": "surah_18",
+            "verse": "verse_74"
+        }
+    },
+    {
+        "index": "303",
+        "start": {
+            "surah": "surah_18",
+            "verse": "verse_75"
+        },
+        "end": {
+            "surah": "surah_18",
+            "verse": "verse_83"
+        }
+    },
+    {
+        "index": "304",
+        "start": {
+            "surah": "surah_18",
+            "verse": "verse_84"
+        },
+        "end": {
+            "surah": "surah_18",
+            "verse": "verse_96"
+        }
+    },
+    {
+        "index": "305",
+        "start": {
+            "surah": "surah_18",
+            "verse": "verse_97"
+        },
+        "end": {
+            "surah": "surah_18",
+            "verse": "verse_109"
+        }
+    },
+    {
+        "index": "306",
+        "start": {
+            "surah": "surah_18",
+            "verse": "verse_110"
+        },
+        "end": {
+            "surah": "surah_19",
+            "verse": "verse_11"
+        }
+    },
+    {
+        "index": "307",
+        "start": {
+            "surah": "surah_19",
+            "verse": "verse_12"
+        },
+        "end": {
+            "surah": "surah_19",
+            "verse": "verse_25"
+        }
+    },
+    {
+        "index": "308",
+        "start": {
+            "surah": "surah_19",
+            "verse": "verse_26"
+        },
+        "end": {
+            "surah": "surah_19",
+            "verse": "verse_38"
+        }
+    },
+    {
+        "index": "309",
+        "start": {
+            "surah": "surah_19",
+            "verse": "verse_39"
+        },
+        "end": {
+            "surah": "surah_19",
+            "verse": "verse_51"
+        }
+    },
+    {
+        "index": "310",
+        "start": {
+            "surah": "surah_19",
+            "verse": "verse_52"
+        },
+        "end": {
+            "surah": "surah_19",
+            "verse": "verse_63"
+        }
+    },
+    {
+        "index": "311",
+        "start": {
+            "surah": "surah_19",
+            "verse": "verse_64"
+        },
+        "end": {
+            "surah": "surah_19",
+            "verse": "verse_75"
+        }
+    },
+    {
+        "index": "312",
+        "start": {
+            "surah": "surah_19",
+            "verse": "verse_76"
+        },
+        "end": {
+            "surah": "surah_19",
+            "verse": "verse_95"
+        }
+    },
+    {
+        "index": "313",
+        "start": {
+            "surah": "surah_19",
+            "verse": "verse_96"
+        },
+        "end": {
+            "surah": "surah_20",
+            "verse": "verse_12"
+        }
+    },
+    {
+        "index": "314",
+        "start": {
+            "surah": "surah_20",
+            "verse": "verse_13"
+        },
+        "end": {
+            "surah": "surah_20",
+            "verse": "verse_38"
+        }
+    },
+    {
+        "index": "315",
+        "start": {
+            "surah": "surah_20",
+            "verse": "verse_39"
+        },
+        "end": {
+            "surah": "surah_20",
+            "verse": "verse_51"
+        }
+    },
+    {
+        "index": "316",
+        "start": {
+            "surah": "surah_20",
+            "verse": "verse_52"
+        },
+        "end": {
+            "surah": "surah_20",
+            "verse": "verse_65"
+        }
+    },
+    {
+        "index": "317",
+        "start": {
+            "surah": "surah_20",
+            "verse": "verse_66"
+        },
+        "end": {
+            "surah": "surah_20",
+            "verse": "verse_76"
+        }
+    },
+    {
+        "index": "318",
+        "start": {
+            "surah": "surah_20",
+            "verse": "verse_77"
+        },
+        "end": {
+            "surah": "surah_20",
+            "verse": "verse_86"
+        }
+    },
+    {
+        "index": "319",
+        "start": {
+            "surah": "surah_20",
+            "verse": "verse_87"
+        },
+        "end": {
+            "surah": "surah_20",
+            "verse": "verse_97"
+        }
+    },
+    {
+        "index": "320",
+        "start": {
+            "surah": "surah_20",
+            "verse": "verse_98"
+        },
+        "end": {
+            "surah": "surah_20",
+            "verse": "verse_113"
+        }
+    },
+    {
+        "index": "321",
+        "start": {
+            "surah": "surah_20",
+            "verse": "verse_114"
+        },
+        "end": {
+            "surah": "surah_20",
+            "verse": "verse_126"
+        }
+    },
+    {
+        "index": "322",
+        "start": {
+            "surah": "surah_20",
+            "verse": "verse_127"
+        },
+        "end": {
+            "surah": "surah_20",
+            "verse": "verse_135"
+        }
+    },
+    {
+        "index": "323",
+        "start": {
+            "surah": "surah_21",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_21",
+            "verse": "verse_11"
+        }
+    },
+    {
+        "index": "324",
+        "start": {
+            "surah": "surah_21",
+            "verse": "verse_12"
+        },
+        "end": {
+            "surah": "surah_21",
+            "verse": "verse_24"
+        }
+    },
+    {
+        "index": "325",
+        "start": {
+            "surah": "surah_21",
+            "verse": "verse_25"
+        },
+        "end": {
+            "surah": "surah_21",
+            "verse": "verse_35"
+        }
+    },
+    {
+        "index": "326",
+        "start": {
+            "surah": "surah_21",
+            "verse": "verse_36"
+        },
+        "end": {
+            "surah": "surah_21",
+            "verse": "verse_45"
+        }
+    },
+    {
+        "index": "327",
+        "start": {
+            "surah": "surah_21",
+            "verse": "verse_46"
+        },
+        "end": {
+            "surah": "surah_21",
+            "verse": "verse_57"
+        }
+    },
+    {
+        "index": "328",
+        "start": {
+            "surah": "surah_21",
+            "verse": "verse_58"
+        },
+        "end": {
+            "surah": "surah_21",
+            "verse": "verse_72"
+        }
+    },
+    {
+        "index": "329",
+        "start": {
+            "surah": "surah_21",
+            "verse": "verse_73"
+        },
+        "end": {
+            "surah": "surah_21",
+            "verse": "verse_81"
+        }
+    },
+    {
+        "index": "330",
+        "start": {
+            "surah": "surah_21",
+            "verse": "verse_82"
+        },
+        "end": {
+            "surah": "surah_21",
+            "verse": "verse_90"
+        }
+    },
+    {
+        "index": "331",
+        "start": {
+            "surah": "surah_21",
+            "verse": "verse_91"
+        },
+        "end": {
+            "surah": "surah_21",
+            "verse": "verse_102"
+        }
+    },
+    {
+        "index": "332",
+        "start": {
+            "surah": "surah_21",
+            "verse": "verse_103"
+        },
+        "end": {
+            "surah": "surah_22",
+            "verse": "verse_1"
+        }
+    },
+    {
+        "index": "333",
+        "start": {
+            "surah": "surah_22",
+            "verse": "verse_2"
+        },
+        "end": {
+            "surah": "surah_22",
+            "verse": "verse_6"
+        }
+    },
+    {
+        "index": "334",
+        "start": {
+            "surah": "surah_22",
+            "verse": "verse_7"
+        },
+        "end": {
+            "surah": "surah_22",
+            "verse": "verse_15"
+        }
+    },
+    {
+        "index": "335",
+        "start": {
+            "surah": "surah_22",
+            "verse": "verse_16"
+        },
+        "end": {
+            "surah": "surah_22",
+            "verse": "verse_23"
+        }
+    },
+    {
+        "index": "336",
+        "start": {
+            "surah": "surah_22",
+            "verse": "verse_24"
+        },
+        "end": {
+            "surah": "surah_22",
+            "verse": "verse_30"
+        }
+    },
+    {
+        "index": "337",
+        "start": {
+            "surah": "surah_22",
+            "verse": "verse_31"
+        },
+        "end": {
+            "surah": "surah_22",
+            "verse": "verse_37"
+        }
+    },
+    {
+        "index": "338",
+        "start": {
+            "surah": "surah_22",
+            "verse": "verse_38"
+        },
+        "end": {
+            "surah": "surah_22",
+            "verse": "verse_46"
+        }
+    },
+    {
+        "index": "339",
+        "start": {
+            "surah": "surah_22",
+            "verse": "verse_47"
+        },
+        "end": {
+            "surah": "surah_22",
+            "verse": "verse_55"
+        }
+    },
+    {
+        "index": "340",
+        "start": {
+            "surah": "surah_22",
+            "verse": "verse_56"
+        },
+        "end": {
+            "surah": "surah_22",
+            "verse": "verse_64"
+        }
+    },
+    {
+        "index": "341",
+        "start": {
+            "surah": "surah_22",
+            "verse": "verse_65"
+        },
+        "end": {
+            "surah": "surah_22",
+            "verse": "verse_72"
+        }
+    },
+    {
+        "index": "342",
+        "start": {
+            "surah": "surah_22",
+            "verse": "verse_73"
+        },
+        "end": {
+            "surah": "surah_22",
+            "verse": "verse_78"
+        }
+    },
+    {
+        "index": "343",
+        "start": {
+            "surah": "surah_23",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_23",
+            "verse": "verse_17"
+        }
+    },
+    {
+        "index": "344",
+        "start": {
+            "surah": "surah_23",
+            "verse": "verse_18"
+        },
+        "end": {
+            "surah": "surah_23",
+            "verse": "verse_27"
+        }
+    },
+    {
+        "index": "345",
+        "start": {
+            "surah": "surah_23",
+            "verse": "verse_28"
+        },
+        "end": {
+            "surah": "surah_23",
+            "verse": "verse_42"
+        }
+    },
+    {
+        "index": "346",
+        "start": {
+            "surah": "surah_23",
+            "verse": "verse_43"
+        },
+        "end": {
+            "surah": "surah_23",
+            "verse": "verse_58"
+        }
+    },
+    {
+        "index": "347",
+        "start": {
+            "surah": "surah_23",
+            "verse": "verse_59"
+        },
+        "end": {
+            "surah": "surah_23",
+            "verse": "verse_74"
+        }
+    },
+    {
+        "index": "348",
+        "start": {
+            "surah": "surah_23",
+            "verse": "verse_75"
+        },
+        "end": {
+            "surah": "surah_23",
+            "verse": "verse_89"
+        }
+    },
+    {
+        "index": "349",
+        "start": {
+            "surah": "surah_23",
+            "verse": "verse_90"
+        },
+        "end": {
+            "surah": "surah_23",
+            "verse": "verse_104"
+        }
+    },
+    {
+        "index": "350",
+        "start": {
+            "surah": "surah_23",
+            "verse": "verse_105"
+        },
+        "end": {
+            "surah": "surah_23",
+            "verse": "verse_118"
+        }
+    },
+    {
+        "index": "351",
+        "start": {
+            "surah": "surah_24",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_24",
+            "verse": "verse_7"
+        }
+    },
+    {
+        "index": "352",
+        "start": {
+            "surah": "surah_24",
+            "verse": "verse_8"
+        },
+        "end": {
+            "surah": "surah_24",
+            "verse": "verse_18"
+        }
+    },
+    {
+        "index": "353",
+        "start": {
+            "surah": "surah_24",
+            "verse": "verse_19"
+        },
+        "end": {
+            "surah": "surah_24",
+            "verse": "verse_26"
+        }
+    },
+    {
+        "index": "354",
+        "start": {
+            "surah": "surah_24",
+            "verse": "verse_27"
+        },
+        "end": {
+            "surah": "surah_24",
+            "verse": "verse_31"
+        }
+    },
+    {
+        "index": "355",
+        "start": {
+            "surah": "surah_24",
+            "verse": "verse_32"
+        },
+        "end": {
+            "surah": "surah_24",
+            "verse": "verse_36"
+        }
+    },
+    {
+        "index": "356",
+        "start": {
+            "surah": "surah_24",
+            "verse": "verse_37"
+        },
+        "end": {
+            "surah": "surah_24",
+            "verse": "verse_43"
+        }
+    },
+    {
+        "index": "357",
+        "start": {
+            "surah": "surah_24",
+            "verse": "verse_44"
+        },
+        "end": {
+            "surah": "surah_24",
+            "verse": "verse_53"
+        }
+    },
+    {
+        "index": "358",
+        "start": {
+            "surah": "surah_24",
+            "verse": "verse_54"
+        },
+        "end": {
+            "surah": "surah_24",
+            "verse": "verse_58"
+        }
+    },
+    {
+        "index": "359",
+        "start": {
+            "surah": "surah_24",
+            "verse": "verse_59"
+        },
+        "end": {
+            "surah": "surah_24",
+            "verse": "verse_61"
+        }
+    },
+    {
+        "index": "360",
+        "start": {
+            "surah": "surah_24",
+            "verse": "verse_62"
+        },
+        "end": {
+            "surah": "surah_25",
+            "verse": "verse_2"
+        }
+    },
+    {
+        "index": "361",
+        "start": {
+            "surah": "surah_25",
+            "verse": "verse_3"
+        },
+        "end": {
+            "surah": "surah_25",
+            "verse": "verse_11"
+        }
+    },
+    {
+        "index": "362",
+        "start": {
+            "surah": "surah_25",
+            "verse": "verse_12"
+        },
+        "end": {
+            "surah": "surah_25",
+            "verse": "verse_20"
+        }
+    },
+    {
+        "index": "363",
+        "start": {
+            "surah": "surah_25",
+            "verse": "verse_21"
+        },
+        "end": {
+            "surah": "surah_25",
+            "verse": "verse_32"
+        }
+    },
+    {
+        "index": "364",
+        "start": {
+            "surah": "surah_25",
+            "verse": "verse_33"
+        },
+        "end": {
+            "surah": "surah_25",
+            "verse": "verse_44"
+        }
+    },
+    {
+        "index": "365",
+        "start": {
+            "surah": "surah_25",
+            "verse": "verse_45"
+        },
+        "end": {
+            "surah": "surah_25",
+            "verse": "verse_57"
+        }
+    },
+    {
+        "index": "366",
+        "start": {
+            "surah": "surah_25",
+            "verse": "verse_58"
+        },
+        "end": {
+            "surah": "surah_25",
+            "verse": "verse_68"
+        }
+    },
+    {
+        "index": "367",
+        "start": {
+            "surah": "surah_25",
+            "verse": "verse_69"
+        },
+        "end": {
+            "surah": "surah_26",
+            "verse": "verse_4"
+        }
+    },
+    {
+        "index": "368",
+        "start": {
+            "surah": "surah_26",
+            "verse": "verse_5"
+        },
+        "end": {
+            "surah": "surah_26",
+            "verse": "verse_23"
+        }
+    },
+    {
+        "index": "369",
+        "start": {
+            "surah": "surah_26",
+            "verse": "verse_24"
+        },
+        "end": {
+            "surah": "surah_26",
+            "verse": "verse_43"
+        }
+    },
+    {
+        "index": "370",
+        "start": {
+            "surah": "surah_26",
+            "verse": "verse_44"
+        },
+        "end": {
+            "surah": "surah_26",
+            "verse": "verse_64"
+        }
+    },
+    {
+        "index": "371",
+        "start": {
+            "surah": "surah_26",
+            "verse": "verse_65"
+        },
+        "end": {
+            "surah": "surah_26",
+            "verse": "verse_90"
+        }
+    },
+    {
+        "index": "372",
+        "start": {
+            "surah": "surah_26",
+            "verse": "verse_91"
+        },
+        "end": {
+            "surah": "surah_26",
+            "verse": "verse_117"
+        }
+    },
+    {
+        "index": "373",
+        "start": {
+            "surah": "surah_26",
+            "verse": "verse_118"
+        },
+        "end": {
+            "surah": "surah_26",
+            "verse": "verse_142"
+        }
+    },
+    {
+        "index": "374",
+        "start": {
+            "surah": "surah_26",
+            "verse": "verse_143"
+        },
+        "end": {
+            "surah": "surah_26",
+            "verse": "verse_166"
+        }
+    },
+    {
+        "index": "375",
+        "start": {
+            "surah": "surah_26",
+            "verse": "verse_167"
+        },
+        "end": {
+            "surah": "surah_26",
+            "verse": "verse_189"
+        }
+    },
+    {
+        "index": "376",
+        "start": {
+            "surah": "surah_26",
+            "verse": "verse_190"
+        },
+        "end": {
+            "surah": "surah_26",
+            "verse": "verse_215"
+        }
+    },
+    {
+        "index": "377",
+        "start": {
+            "surah": "surah_26",
+            "verse": "verse_216"
+        },
+        "end": {
+            "surah": "surah_27",
+            "verse": "verse_5"
+        }
+    },
+    {
+        "index": "378",
+        "start": {
+            "surah": "surah_27",
+            "verse": "verse_6"
+        },
+        "end": {
+            "surah": "surah_27",
+            "verse": "verse_16"
+        }
+    },
+    {
+        "index": "379",
+        "start": {
+            "surah": "surah_27",
+            "verse": "verse_17"
+        },
+        "end": {
+            "surah": "surah_27",
+            "verse": "verse_26"
+        }
+    },
+    {
+        "index": "380",
+        "start": {
+            "surah": "surah_27",
+            "verse": "verse_27"
+        },
+        "end": {
+            "surah": "surah_27",
+            "verse": "verse_39"
+        }
+    },
+    {
+        "index": "381",
+        "start": {
+            "surah": "surah_27",
+            "verse": "verse_40"
+        },
+        "end": {
+            "surah": "surah_27",
+            "verse": "verse_46"
+        }
+    },
+    {
+        "index": "382",
+        "start": {
+            "surah": "surah_27",
+            "verse": "verse_47"
+        },
+        "end": {
+            "surah": "surah_27",
+            "verse": "verse_59"
+        }
+    },
+    {
+        "index": "383",
+        "start": {
+            "surah": "surah_27",
+            "verse": "verse_60"
+        },
+        "end": {
+            "surah": "surah_27",
+            "verse": "verse_66"
+        }
+    },
+    {
+        "index": "384",
+        "start": {
+            "surah": "surah_27",
+            "verse": "verse_67"
+        },
+        "end": {
+            "surah": "surah_27",
+            "verse": "verse_79"
+        }
+    },
+    {
+        "index": "385",
+        "start": {
+            "surah": "surah_27",
+            "verse": "verse_80"
+        },
+        "end": {
+            "surah": "surah_27",
+            "verse": "verse_88"
+        }
+    },
+    {
+        "index": "386",
+        "start": {
+            "surah": "surah_27",
+            "verse": "verse_89"
+        },
+        "end": {
+            "surah": "surah_28",
+            "verse": "verse_5"
+        }
+    },
+    {
+        "index": "387",
+        "start": {
+            "surah": "surah_28",
+            "verse": "verse_6"
+        },
+        "end": {
+            "surah": "surah_28",
+            "verse": "verse_13"
+        }
+    },
+    {
+        "index": "388",
+        "start": {
+            "surah": "surah_28",
+            "verse": "verse_14"
+        },
+        "end": {
+            "surah": "surah_28",
+            "verse": "verse_20"
+        }
+    },
+    {
+        "index": "389",
+        "start": {
+            "surah": "surah_28",
+            "verse": "verse_21"
+        },
+        "end": {
+            "surah": "surah_28",
+            "verse": "verse_28"
+        }
+    },
+    {
+        "index": "390",
+        "start": {
+            "surah": "surah_28",
+            "verse": "verse_29"
+        },
+        "end": {
+            "surah": "surah_28",
+            "verse": "verse_35"
+        }
+    },
+    {
+        "index": "391",
+        "start": {
+            "surah": "surah_28",
+            "verse": "verse_36"
+        },
+        "end": {
+            "surah": "surah_28",
+            "verse": "verse_43"
+        }
+    },
+    {
+        "index": "392",
+        "start": {
+            "surah": "surah_28",
+            "verse": "verse_44"
+        },
+        "end": {
+            "surah": "surah_28",
+            "verse": "verse_50"
+        }
+    },
+    {
+        "index": "393",
+        "start": {
+            "surah": "surah_28",
+            "verse": "verse_51"
+        },
+        "end": {
+            "surah": "surah_28",
+            "verse": "verse_59"
+        }
+    },
+    {
+        "index": "394",
+        "start": {
+            "surah": "surah_28",
+            "verse": "verse_60"
+        },
+        "end": {
+            "surah": "surah_28",
+            "verse": "verse_70"
+        }
+    },
+    {
+        "index": "395",
+        "start": {
+            "surah": "surah_28",
+            "verse": "verse_71"
+        },
+        "end": {
+            "surah": "surah_28",
+            "verse": "verse_77"
+        }
+    },
+    {
+        "index": "396",
+        "start": {
+            "surah": "surah_28",
+            "verse": "verse_78"
+        },
+        "end": {
+            "surah": "surah_28",
+            "verse": "verse_84"
+        }
+    },
+    {
+        "index": "397",
+        "start": {
+            "surah": "surah_28",
+            "verse": "verse_85"
+        },
+        "end": {
+            "surah": "surah_29",
+            "verse": "verse_5"
+        }
+    },
+    {
+        "index": "398",
+        "start": {
+            "surah": "surah_29",
+            "verse": "verse_6"
+        },
+        "end": {
+            "surah": "surah_29",
+            "verse": "verse_13"
+        }
+    },
+    {
+        "index": "399",
+        "start": {
+            "surah": "surah_29",
+            "verse": "verse_14"
+        },
+        "end": {
+            "surah": "surah_29",
+            "verse": "verse_21"
+        }
+    },
+    {
+        "index": "400",
+        "start": {
+            "surah": "surah_29",
+            "verse": "verse_22"
+        },
+        "end": {
+            "surah": "surah_29",
+            "verse": "verse_28"
+        }
+    },
+    {
+        "index": "401",
+        "start": {
+            "surah": "surah_29",
+            "verse": "verse_29"
+        },
+        "end": {
+            "surah": "surah_29",
+            "verse": "verse_36"
+        }
+    },
+    {
+        "index": "402",
+        "start": {
+            "surah": "surah_29",
+            "verse": "verse_37"
+        },
+        "end": {
+            "surah": "surah_29",
+            "verse": "verse_44"
+        }
+    },
+    {
+        "index": "403",
+        "start": {
+            "surah": "surah_29",
+            "verse": "verse_45"
+        },
+        "end": {
+            "surah": "surah_29",
+            "verse": "verse_52"
+        }
+    },
+    {
+        "index": "404",
+        "start": {
+            "surah": "surah_29",
+            "verse": "verse_53"
+        },
+        "end": {
+            "surah": "surah_29",
+            "verse": "verse_63"
+        }
+    },
+    {
+        "index": "405",
+        "start": {
+            "surah": "surah_29",
+            "verse": "verse_64"
+        },
+        "end": {
+            "surah": "surah_30",
+            "verse": "verse_5"
+        }
+    },
+    {
+        "index": "406",
+        "start": {
+            "surah": "surah_30",
+            "verse": "verse_6"
+        },
+        "end": {
+            "surah": "surah_30",
+            "verse": "verse_15"
+        }
+    },
+    {
+        "index": "407",
+        "start": {
+            "surah": "surah_30",
+            "verse": "verse_16"
+        },
+        "end": {
+            "surah": "surah_30",
+            "verse": "verse_24"
+        }
+    },
+    {
+        "index": "408",
+        "start": {
+            "surah": "surah_30",
+            "verse": "verse_25"
+        },
+        "end": {
+            "surah": "surah_30",
+            "verse": "verse_32"
+        }
+    },
+    {
+        "index": "409",
+        "start": {
+            "surah": "surah_30",
+            "verse": "verse_33"
+        },
+        "end": {
+            "surah": "surah_30",
+            "verse": "verse_41"
+        }
+    },
+    {
+        "index": "410",
+        "start": {
+            "surah": "surah_30",
+            "verse": "verse_42"
+        },
+        "end": {
+            "surah": "surah_30",
+            "verse": "verse_49"
+        }
+    },
+    {
+        "index": "411",
+        "start": {
+            "surah": "surah_30",
+            "verse": "verse_50"
+        },
+        "end": {
+            "surah": "surah_30",
+            "verse": "verse_58"
+        }
+    },
+    {
+        "index": "412",
+        "start": {
+            "surah": "surah_30",
+            "verse": "verse_59"
+        },
+        "end": {
+            "surah": "surah_31",
+            "verse": "verse_10"
+        }
+    },
+    {
+        "index": "413",
+        "start": {
+            "surah": "surah_31",
+            "verse": "verse_11"
+        },
+        "end": {
+            "surah": "surah_31",
+            "verse": "verse_18"
+        }
+    },
+    {
+        "index": "414",
+        "start": {
+            "surah": "surah_31",
+            "verse": "verse_19"
+        },
+        "end": {
+            "surah": "surah_31",
+            "verse": "verse_27"
+        }
+    },
+    {
+        "index": "415",
+        "start": {
+            "surah": "surah_31",
+            "verse": "verse_28"
+        },
+        "end": {
+            "surah": "surah_31",
+            "verse": "verse_34"
+        }
+    },
+    {
+        "index": "416",
+        "start": {
+            "surah": "surah_32",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_32",
+            "verse": "verse_10"
+        }
+    },
+    {
+        "index": "417",
+        "start": {
+            "surah": "surah_32",
+            "verse": "verse_11"
+        },
+        "end": {
+            "surah": "surah_32",
+            "verse": "verse_20"
+        }
+    },
+    {
+        "index": "418",
+        "start": {
+            "surah": "surah_32",
+            "verse": "verse_21"
+        },
+        "end": {
+            "surah": "surah_32",
+            "verse": "verse_30"
+        }
+    },
+    {
+        "index": "419",
+        "start": {
+            "surah": "surah_33",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_33",
+            "verse": "verse_6"
+        }
+    },
+    {
+        "index": "420",
+        "start": {
+            "surah": "surah_33",
+            "verse": "verse_7"
+        },
+        "end": {
+            "surah": "surah_33",
+            "verse": "verse_15"
+        }
+    },
+    {
+        "index": "421",
+        "start": {
+            "surah": "surah_33",
+            "verse": "verse_16"
+        },
+        "end": {
+            "surah": "surah_33",
+            "verse": "verse_22"
+        }
+    },
+    {
+        "index": "422",
+        "start": {
+            "surah": "surah_33",
+            "verse": "verse_23"
+        },
+        "end": {
+            "surah": "surah_33",
+            "verse": "verse_30"
+        }
+    },
+    {
+        "index": "423",
+        "start": {
+            "surah": "surah_33",
+            "verse": "verse_31"
+        },
+        "end": {
+            "surah": "surah_33",
+            "verse": "verse_35"
+        }
+    },
+    {
+        "index": "424",
+        "start": {
+            "surah": "surah_33",
+            "verse": "verse_36"
+        },
+        "end": {
+            "surah": "surah_33",
+            "verse": "verse_43"
+        }
+    },
+    {
+        "index": "425",
+        "start": {
+            "surah": "surah_33",
+            "verse": "verse_44"
+        },
+        "end": {
+            "surah": "surah_33",
+            "verse": "verse_50"
+        }
+    },
+    {
+        "index": "426",
+        "start": {
+            "surah": "surah_33",
+            "verse": "verse_51"
+        },
+        "end": {
+            "surah": "surah_33",
+            "verse": "verse_54"
+        }
+    },
+    {
+        "index": "427",
+        "start": {
+            "surah": "surah_33",
+            "verse": "verse_55"
+        },
+        "end": {
+            "surah": "surah_33",
+            "verse": "verse_62"
+        }
+    },
+    {
+        "index": "428",
+        "start": {
+            "surah": "surah_33",
+            "verse": "verse_63"
+        },
+        "end": {
+            "surah": "surah_33",
+            "verse": "verse_73"
+        }
+    },
+    {
+        "index": "429",
+        "start": {
+            "surah": "surah_34",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_34",
+            "verse": "verse_7"
+        }
+    },
+    {
+        "index": "430",
+        "start": {
+            "surah": "surah_34",
+            "verse": "verse_8"
+        },
+        "end": {
+            "surah": "surah_34",
+            "verse": "verse_14"
+        }
+    },
+    {
+        "index": "431",
+        "start": {
+            "surah": "surah_34",
+            "verse": "verse_15"
+        },
+        "end": {
+            "surah": "surah_34",
+            "verse": "verse_22"
+        }
+    },
+    {
+        "index": "432",
+        "start": {
+            "surah": "surah_34",
+            "verse": "verse_23"
+        },
+        "end": {
+            "surah": "surah_34",
+            "verse": "verse_32"
+        }
+    },
+    {
+        "index": "433",
+        "start": {
+            "surah": "surah_34",
+            "verse": "verse_33"
+        },
+        "end": {
+            "surah": "surah_34",
+            "verse": "verse_40"
+        }
+    },
+    {
+        "index": "434",
+        "start": {
+            "surah": "surah_34",
+            "verse": "verse_41"
+        },
+        "end": {
+            "surah": "surah_34",
+            "verse": "verse_48"
+        }
+    },
+    {
+        "index": "435",
+        "start": {
+            "surah": "surah_34",
+            "verse": "verse_49"
+        },
+        "end": {
+            "surah": "surah_35",
+            "verse": "verse_3"
+        }
+    },
+    {
+        "index": "436",
+        "start": {
+            "surah": "surah_35",
+            "verse": "verse_4"
+        },
+        "end": {
+            "surah": "surah_35",
+            "verse": "verse_11"
+        }
+    },
+    {
+        "index": "437",
+        "start": {
+            "surah": "surah_35",
+            "verse": "verse_12"
+        },
+        "end": {
+            "surah": "surah_35",
+            "verse": "verse_18"
+        }
+    },
+    {
+        "index": "438",
+        "start": {
+            "surah": "surah_35",
+            "verse": "verse_19"
+        },
+        "end": {
+            "surah": "surah_35",
+            "verse": "verse_29"
+        }
+    },
+    {
+        "index": "439",
+        "start": {
+            "surah": "surah_35",
+            "verse": "verse_30"
+        },
+        "end": {
+            "surah": "surah_35",
+            "verse": "verse_37"
+        }
+    },
+    {
+        "index": "440",
+        "start": {
+            "surah": "surah_35",
+            "verse": "verse_38"
+        },
+        "end": {
+            "surah": "surah_35",
+            "verse": "verse_43"
+        }
+    },
+    {
+        "index": "441",
+        "start": {
+            "surah": "surah_35",
+            "verse": "verse_44"
+        },
+        "end": {
+            "surah": "surah_36",
+            "verse": "verse_9"
+        }
+    },
+    {
+        "index": "442",
+        "start": {
+            "surah": "surah_36",
+            "verse": "verse_10"
+        },
+        "end": {
+            "surah": "surah_36",
+            "verse": "verse_21"
+        }
+    },
+    {
+        "index": "443",
+        "start": {
+            "surah": "surah_36",
+            "verse": "verse_22"
+        },
+        "end": {
+            "surah": "surah_36",
+            "verse": "verse_37"
+        }
+    },
+    {
+        "index": "444",
+        "start": {
+            "surah": "surah_36",
+            "verse": "verse_38"
+        },
+        "end": {
+            "surah": "surah_36",
+            "verse": "verse_52"
+        }
+    },
+    {
+        "index": "445",
+        "start": {
+            "surah": "surah_36",
+            "verse": "verse_53"
+        },
+        "end": {
+            "surah": "surah_36",
+            "verse": "verse_70"
+        }
+    },
+    {
+        "index": "446",
+        "start": {
+            "surah": "surah_36",
+            "verse": "verse_71"
+        },
+        "end": {
+            "surah": "surah_37",
+            "verse": "verse_3"
+        }
+    },
+    {
+        "index": "447",
+        "start": {
+            "surah": "surah_37",
+            "verse": "verse_4"
+        },
+        "end": {
+            "surah": "surah_37",
+            "verse": "verse_29"
+        }
+    },
+    {
+        "index": "448",
+        "start": {
+            "surah": "surah_37",
+            "verse": "verse_30"
+        },
+        "end": {
+            "surah": "surah_37",
+            "verse": "verse_56"
+        }
+    },
+    {
+        "index": "449",
+        "start": {
+            "surah": "surah_37",
+            "verse": "verse_57"
+        },
+        "end": {
+            "surah": "surah_37",
+            "verse": "verse_82"
+        }
+    },
+    {
+        "index": "450",
+        "start": {
+            "surah": "surah_37",
+            "verse": "verse_83"
+        },
+        "end": {
+            "surah": "surah_37",
+            "verse": "verse_107"
+        }
+    },
+    {
+        "index": "451",
+        "start": {
+            "surah": "surah_37",
+            "verse": "verse_108"
+        },
+        "end": {
+            "surah": "surah_37",
+            "verse": "verse_133"
+        }
+    },
+    {
+        "index": "452",
+        "start": {
+            "surah": "surah_37",
+            "verse": "verse_134"
+        },
+        "end": {
+            "surah": "surah_37",
+            "verse": "verse_160"
+        }
+    },
+    {
+        "index": "453",
+        "start": {
+            "surah": "surah_37",
+            "verse": "verse_161"
+        },
+        "end": {
+            "surah": "surah_38",
+            "verse": "verse_3"
+        }
+    },
+    {
+        "index": "454",
+        "start": {
+            "surah": "surah_38",
+            "verse": "verse_4"
+        },
+        "end": {
+            "surah": "surah_38",
+            "verse": "verse_18"
+        }
+    },
+    {
+        "index": "455",
+        "start": {
+            "surah": "surah_38",
+            "verse": "verse_19"
+        },
+        "end": {
+            "surah": "surah_38",
+            "verse": "verse_27"
+        }
+    },
+    {
+        "index": "456",
+        "start": {
+            "surah": "surah_38",
+            "verse": "verse_28"
+        },
+        "end": {
+            "surah": "surah_38",
+            "verse": "verse_43"
+        }
+    },
+    {
+        "index": "457",
+        "start": {
+            "surah": "surah_38",
+            "verse": "verse_44"
+        },
+        "end": {
+            "surah": "surah_38",
+            "verse": "verse_62"
+        }
+    },
+    {
+        "index": "458",
+        "start": {
+            "surah": "surah_38",
+            "verse": "verse_63"
+        },
+        "end": {
+            "surah": "surah_38",
+            "verse": "verse_82"
+        }
+    },
+    {
+        "index": "459",
+        "start": {
+            "surah": "surah_38",
+            "verse": "verse_83"
+        },
+        "end": {
+            "surah": "surah_39",
+            "verse": "verse_5"
+        }
+    },
+    {
+        "index": "460",
+        "start": {
+            "surah": "surah_39",
+            "verse": "verse_6"
+        },
+        "end": {
+            "surah": "surah_39",
+            "verse": "verse_10"
+        }
+    },
+    {
+        "index": "461",
+        "start": {
+            "surah": "surah_39",
+            "verse": "verse_11"
+        },
+        "end": {
+            "surah": "surah_39",
+            "verse": "verse_21"
+        }
+    },
+    {
+        "index": "462",
+        "start": {
+            "surah": "surah_39",
+            "verse": "verse_22"
+        },
+        "end": {
+            "surah": "surah_39",
+            "verse": "verse_31"
+        }
+    },
+    {
+        "index": "463",
+        "start": {
+            "surah": "surah_39",
+            "verse": "verse_32"
+        },
+        "end": {
+            "surah": "surah_39",
+            "verse": "verse_40"
+        }
+    },
+    {
+        "index": "464",
+        "start": {
+            "surah": "surah_39",
+            "verse": "verse_41"
+        },
+        "end": {
+            "surah": "surah_39",
+            "verse": "verse_47"
+        }
+    },
+    {
+        "index": "465",
+        "start": {
+            "surah": "surah_39",
+            "verse": "verse_48"
+        },
+        "end": {
+            "surah": "surah_39",
+            "verse": "verse_56"
+        }
+    },
+    {
+        "index": "466",
+        "start": {
+            "surah": "surah_39",
+            "verse": "verse_57"
+        },
+        "end": {
+            "surah": "surah_39",
+            "verse": "verse_67"
+        }
+    },
+    {
+        "index": "467",
+        "start": {
+            "surah": "surah_39",
+            "verse": "verse_68"
+        },
+        "end": {
+            "surah": "surah_39",
+            "verse": "verse_74"
+        }
+    },
+    {
+        "index": "468",
+        "start": {
+            "surah": "surah_39",
+            "verse": "verse_75"
+        },
+        "end": {
+            "surah": "surah_40",
+            "verse": "verse_7"
+        }
+    },
+    {
+        "index": "469",
+        "start": {
+            "surah": "surah_40",
+            "verse": "verse_8"
+        },
+        "end": {
+            "surah": "surah_40",
+            "verse": "verse_16"
+        }
+    },
+    {
+        "index": "470",
+        "start": {
+            "surah": "surah_40",
+            "verse": "verse_17"
+        },
+        "end": {
+            "surah": "surah_40",
+            "verse": "verse_25"
+        }
+    },
+    {
+        "index": "471",
+        "start": {
+            "surah": "surah_40",
+            "verse": "verse_26"
+        },
+        "end": {
+            "surah": "surah_40",
+            "verse": "verse_32"
+        }
+    },
+    {
+        "index": "472",
+        "start": {
+            "surah": "surah_40",
+            "verse": "verse_33"
+        },
+        "end": {
+            "surah": "surah_40",
+            "verse": "verse_40"
+        }
+    },
+    {
+        "index": "473",
+        "start": {
+            "surah": "surah_40",
+            "verse": "verse_41"
+        },
+        "end": {
+            "surah": "surah_40",
+            "verse": "verse_49"
+        }
+    },
+    {
+        "index": "474",
+        "start": {
+            "surah": "surah_40",
+            "verse": "verse_50"
+        },
+        "end": {
+            "surah": "surah_40",
+            "verse": "verse_58"
+        }
+    },
+    {
+        "index": "475",
+        "start": {
+            "surah": "surah_40",
+            "verse": "verse_59"
+        },
+        "end": {
+            "surah": "surah_40",
+            "verse": "verse_66"
+        }
+    },
+    {
+        "index": "476",
+        "start": {
+            "surah": "surah_40",
+            "verse": "verse_67"
+        },
+        "end": {
+            "surah": "surah_40",
+            "verse": "verse_77"
+        }
+    },
+    {
+        "index": "477",
+        "start": {
+            "surah": "surah_40",
+            "verse": "verse_78"
+        },
+        "end": {
+            "surah": "surah_40",
+            "verse": "verse_85"
+        }
+    },
+    {
+        "index": "478",
+        "start": {
+            "surah": "surah_41",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_41",
+            "verse": "verse_11"
+        }
+    },
+    {
+        "index": "479",
+        "start": {
+            "surah": "surah_41",
+            "verse": "verse_12"
+        },
+        "end": {
+            "surah": "surah_41",
+            "verse": "verse_20"
+        }
+    },
+    {
+        "index": "480",
+        "start": {
+            "surah": "surah_41",
+            "verse": "verse_21"
+        },
+        "end": {
+            "surah": "surah_41",
+            "verse": "verse_28"
+        }
+    },
+    {
+        "index": "481",
+        "start": {
+            "surah": "surah_41",
+            "verse": "verse_29"
+        },
+        "end": {
+            "surah": "surah_41",
+            "verse": "verse_38"
+        }
+    },
+    {
+        "index": "482",
+        "start": {
+            "surah": "surah_41",
+            "verse": "verse_39"
+        },
+        "end": {
+            "surah": "surah_41",
+            "verse": "verse_46"
+        }
+    },
+    {
+        "index": "483",
+        "start": {
+            "surah": "surah_41",
+            "verse": "verse_47"
+        },
+        "end": {
+            "surah": "surah_41",
+            "verse": "verse_54"
+        }
+    },
+    {
+        "index": "484",
+        "start": {
+            "surah": "surah_42",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_42",
+            "verse": "verse_10"
+        }
+    },
+    {
+        "index": "485",
+        "start": {
+            "surah": "surah_42",
+            "verse": "verse_11"
+        },
+        "end": {
+            "surah": "surah_42",
+            "verse": "verse_15"
+        }
+    },
+    {
+        "index": "486",
+        "start": {
+            "surah": "surah_42",
+            "verse": "verse_16"
+        },
+        "end": {
+            "surah": "surah_42",
+            "verse": "verse_22"
+        }
+    },
+    {
+        "index": "487",
+        "start": {
+            "surah": "surah_42",
+            "verse": "verse_23"
+        },
+        "end": {
+            "surah": "surah_42",
+            "verse": "verse_31"
+        }
+    },
+    {
+        "index": "488",
+        "start": {
+            "surah": "surah_42",
+            "verse": "verse_32"
+        },
+        "end": {
+            "surah": "surah_42",
+            "verse": "verse_43"
+        }
+    },
+    {
+        "index": "489",
+        "start": {
+            "surah": "surah_42",
+            "verse": "verse_44"
+        },
+        "end": {
+            "surah": "surah_42",
+            "verse": "verse_51"
+        }
+    },
+    {
+        "index": "490",
+        "start": {
+            "surah": "surah_42",
+            "verse": "verse_52"
+        },
+        "end": {
+            "surah": "surah_43",
+            "verse": "verse_11"
+        }
+    },
+    {
+        "index": "491",
+        "start": {
+            "surah": "surah_43",
+            "verse": "verse_12"
+        },
+        "end": {
+            "surah": "surah_43",
+            "verse": "verse_23"
+        }
+    },
+    {
+        "index": "492",
+        "start": {
+            "surah": "surah_43",
+            "verse": "verse_24"
+        },
+        "end": {
+            "surah": "surah_43",
+            "verse": "verse_35"
+        }
+    },
+    {
+        "index": "493",
+        "start": {
+            "surah": "surah_43",
+            "verse": "verse_36"
+        },
+        "end": {
+            "surah": "surah_43",
+            "verse": "verse_49"
+        }
+    },
+    {
+        "index": "494",
+        "start": {
+            "surah": "surah_43",
+            "verse": "verse_50"
+        },
+        "end": {
+            "surah": "surah_43",
+            "verse": "verse_63"
+        }
+    },
+    {
+        "index": "495",
+        "start": {
+            "surah": "surah_43",
+            "verse": "verse_64"
+        },
+        "end": {
+            "surah": "surah_43",
+            "verse": "verse_79"
+        }
+    },
+    {
+        "index": "496",
+        "start": {
+            "surah": "surah_43",
+            "verse": "verse_80"
+        },
+        "end": {
+            "surah": "surah_44",
+            "verse": "verse_4"
+        }
+    },
+    {
+        "index": "497",
+        "start": {
+            "surah": "surah_44",
+            "verse": "verse_5"
+        },
+        "end": {
+            "surah": "surah_44",
+            "verse": "verse_26"
+        }
+    },
+    {
+        "index": "498",
+        "start": {
+            "surah": "surah_44",
+            "verse": "verse_27"
+        },
+        "end": {
+            "surah": "surah_44",
+            "verse": "verse_48"
+        }
+    },
+    {
+        "index": "499",
+        "start": {
+            "surah": "surah_44",
+            "verse": "verse_49"
+        },
+        "end": {
+            "surah": "surah_45",
+            "verse": "verse_6"
+        }
+    },
+    {
+        "index": "500",
+        "start": {
+            "surah": "surah_45",
+            "verse": "verse_7"
+        },
+        "end": {
+            "surah": "surah_45",
+            "verse": "verse_17"
+        }
+    },
+    {
+        "index": "501",
+        "start": {
+            "surah": "surah_45",
+            "verse": "verse_18"
+        },
+        "end": {
+            "surah": "surah_45",
+            "verse": "verse_26"
+        }
+    },
+    {
+        "index": "502",
+        "start": {
+            "surah": "surah_45",
+            "verse": "verse_27"
+        },
+        "end": {
+            "surah": "surah_45",
+            "verse": "verse_37"
+        }
+    },
+    {
+        "index": "503",
+        "start": {
+            "surah": "surah_46",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_46",
+            "verse": "verse_8"
+        }
+    },
+    {
+        "index": "504",
+        "start": {
+            "surah": "surah_46",
+            "verse": "verse_9"
+        },
+        "end": {
+            "surah": "surah_46",
+            "verse": "verse_15"
+        }
+    },
+    {
+        "index": "505",
+        "start": {
+            "surah": "surah_46",
+            "verse": "verse_16"
+        },
+        "end": {
+            "surah": "surah_46",
+            "verse": "verse_22"
+        }
+    },
+    {
+        "index": "506",
+        "start": {
+            "surah": "surah_46",
+            "verse": "verse_23"
+        },
+        "end": {
+            "surah": "surah_46",
+            "verse": "verse_29"
+        }
+    },
+    {
+        "index": "507",
+        "start": {
+            "surah": "surah_46",
+            "verse": "verse_30"
+        },
+        "end": {
+            "surah": "surah_47",
+            "verse": "verse_1"
+        }
+    },
+    {
+        "index": "508",
+        "start": {
+            "surah": "surah_47",
+            "verse": "verse_2"
+        },
+        "end": {
+            "surah": "surah_47",
+            "verse": "verse_11"
+        }
+    },
+    {
+        "index": "509",
+        "start": {
+            "surah": "surah_47",
+            "verse": "verse_12"
+        },
+        "end": {
+            "surah": "surah_47",
+            "verse": "verse_18"
+        }
+    },
+    {
+        "index": "510",
+        "start": {
+            "surah": "surah_47",
+            "verse": "verse_19"
+        },
+        "end": {
+            "surah": "surah_47",
+            "verse": "verse_29"
+        }
+    },
+    {
+        "index": "511",
+        "start": {
+            "surah": "surah_47",
+            "verse": "verse_30"
+        },
+        "end": {
+            "surah": "surah_47",
+            "verse": "verse_38"
+        }
+    },
+    {
+        "index": "512",
+        "start": {
+            "surah": "surah_48",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_48",
+            "verse": "verse_9"
+        }
+    },
+    {
+        "index": "513",
+        "start": {
+            "surah": "surah_48",
+            "verse": "verse_10"
+        },
+        "end": {
+            "surah": "surah_48",
+            "verse": "verse_15"
+        }
+    },
+    {
+        "index": "514",
+        "start": {
+            "surah": "surah_48",
+            "verse": "verse_16"
+        },
+        "end": {
+            "surah": "surah_48",
+            "verse": "verse_23"
+        }
+    },
+    {
+        "index": "515",
+        "start": {
+            "surah": "surah_48",
+            "verse": "verse_24"
+        },
+        "end": {
+            "surah": "surah_48",
+            "verse": "verse_28"
+        }
+    },
+    {
+        "index": "516",
+        "start": {
+            "surah": "surah_48",
+            "verse": "verse_29"
+        },
+        "end": {
+            "surah": "surah_49",
+            "verse": "verse_4"
+        }
+    },
+    {
+        "index": "517",
+        "start": {
+            "surah": "surah_49",
+            "verse": "verse_5"
+        },
+        "end": {
+            "surah": "surah_49",
+            "verse": "verse_11"
+        }
+    },
+    {
+        "index": "518",
+        "start": {
+            "surah": "surah_49",
+            "verse": "verse_12"
+        },
+        "end": {
+            "surah": "surah_49",
+            "verse": "verse_18"
+        }
+    },
+    {
+        "index": "519",
+        "start": {
+            "surah": "surah_50",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_50",
+            "verse": "verse_15"
+        }
+    },
+    {
+        "index": "520",
+        "start": {
+            "surah": "surah_50",
+            "verse": "verse_16"
+        },
+        "end": {
+            "surah": "surah_50",
+            "verse": "verse_34"
+        }
+    },
+    {
+        "index": "521",
+        "start": {
+            "surah": "surah_50",
+            "verse": "verse_35"
+        },
+        "end": {
+            "surah": "surah_51",
+            "verse": "verse_6"
+        }
+    },
+    {
+        "index": "522",
+        "start": {
+            "surah": "surah_51",
+            "verse": "verse_7"
+        },
+        "end": {
+            "surah": "surah_51",
+            "verse": "verse_30"
+        }
+    },
+    {
+        "index": "523",
+        "start": {
+            "surah": "surah_51",
+            "verse": "verse_31"
+        },
+        "end": {
+            "surah": "surah_51",
+            "verse": "verse_50"
+        }
+    },
+    {
+        "index": "524",
+        "start": {
+            "surah": "surah_51",
+            "verse": "verse_51"
+        },
+        "end": {
+            "surah": "surah_52",
+            "verse": "verse_14"
+        }
+    },
+    {
+        "index": "525",
+        "start": {
+            "surah": "surah_52",
+            "verse": "verse_15"
+        },
+        "end": {
+            "surah": "surah_52",
+            "verse": "verse_31"
+        }
+    },
+    {
+        "index": "526",
+        "start": {
+            "surah": "surah_52",
+            "verse": "verse_32"
+        },
+        "end": {
+            "surah": "surah_52",
+            "verse": "verse_49"
+        }
+    },
+    {
+        "index": "527",
+        "start": {
+            "surah": "surah_53",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_53",
+            "verse": "verse_25"
+        }
+    },
+    {
+        "index": "528",
+        "start": {
+            "surah": "surah_53",
+            "verse": "verse_26"
+        },
+        "end": {
+            "surah": "surah_53",
+            "verse": "verse_39"
+        }
+    },
+    {
+        "index": "529",
+        "start": {
+            "surah": "surah_53",
+            "verse": "verse_40"
+        },
+        "end": {
+            "surah": "surah_54",
+            "verse": "verse_3"
+        }
+    },
+    {
+        "index": "530",
+        "start": {
+            "surah": "surah_54",
+            "verse": "verse_4"
+        },
+        "end": {
+            "surah": "surah_54",
+            "verse": "verse_24"
+        }
+    },
+    {
+        "index": "531",
+        "start": {
+            "surah": "surah_54",
+            "verse": "verse_25"
+        },
+        "end": {
+            "surah": "surah_54",
+            "verse": "verse_44"
+        }
+    },
+    {
+        "index": "532",
+        "start": {
+            "surah": "surah_55",
+            "verse": "verse_45"
+        },
+        "end": {
+            "surah": "surah_55",
+            "verse": "verse_13"
+        }
+    },
+    {
+        "index": "533",
+        "start": {
+            "surah": "surah_55",
+            "verse": "verse_14"
+        },
+        "end": {
+            "surah": "surah_55",
+            "verse": "verse_38"
+        }
+    },
+    {
+        "index": "534",
+        "start": {
+            "surah": "surah_55",
+            "verse": "verse_39"
+        },
+        "end": {
+            "surah": "surah_55",
+            "verse": "verse_66"
+        }
+    },
+    {
+        "index": "535",
+        "start": {
+            "surah": "surah_55",
+            "verse": "verse_67"
+        },
+        "end": {
+            "surah": "surah_56",
+            "verse": "verse_16"
+        }
+    },
+    {
+        "index": "536",
+        "start": {
+            "surah": "surah_56",
+            "verse": "verse_17"
+        },
+        "end": {
+            "surah": "surah_56",
+            "verse": "verse_51"
+        }
+    },
+    {
+        "index": "537",
+        "start": {
+            "surah": "surah_56",
+            "verse": "verse_52"
+        },
+        "end": {
+            "surah": "surah_56",
+            "verse": "verse_76"
+        }
+    },
+    {
+        "index": "538",
+        "start": {
+            "surah": "surah_56",
+            "verse": "verse_77"
+        },
+        "end": {
+            "surah": "surah_57",
+            "verse": "verse_3"
+        }
+    },
+    {
+        "index": "539",
+        "start": {
+            "surah": "surah_57",
+            "verse": "verse_4"
+        },
+        "end": {
+            "surah": "surah_57",
+            "verse": "verse_10"
+        }
+    },
+    {
+        "index": "540",
+        "start": {
+            "surah": "surah_57",
+            "verse": "verse_11"
+        },
+        "end": {
+            "surah": "surah_57",
+            "verse": "verse_17"
+        }
+    },
+    {
+        "index": "541",
+        "start": {
+            "surah": "surah_57",
+            "verse": "verse_18"
+        },
+        "end": {
+            "surah": "surah_57",
+            "verse": "verse_24"
+        }
+    },
+    {
+        "index": "542",
+        "start": {
+            "surah": "surah_57",
+            "verse": "verse_25"
+        },
+        "end": {
+            "surah": "surah_58",
+            "verse": "verse_29"
+        }
+    },
+    {
+        "index": "543",
+        "start": {
+            "surah": "surah_58",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_58",
+            "verse": "verse_6"
+        }
+    },
+    {
+        "index": "544",
+        "start": {
+            "surah": "surah_58",
+            "verse": "verse_7"
+        },
+        "end": {
+            "surah": "surah_58",
+            "verse": "verse_11"
+        }
+    },
+    {
+        "index": "545",
+        "start": {
+            "surah": "surah_58",
+            "verse": "verse_12"
+        },
+        "end": {
+            "surah": "surah_58",
+            "verse": "verse_20"
+        }
+    },
+    {
+        "index": "546",
+        "start": {
+            "surah": "surah_58",
+            "verse": "verse_21"
+        },
+        "end": {
+            "surah": "surah_59",
+            "verse": "verse_3"
+        }
+    },
+    {
+        "index": "547",
+        "start": {
+            "surah": "surah_59",
+            "verse": "verse_4"
+        },
+        "end": {
+            "surah": "surah_59",
+            "verse": "verse_9"
+        }
+    },
+    {
+        "index": "548",
+        "start": {
+            "surah": "surah_59",
+            "verse": "verse_10"
+        },
+        "end": {
+            "surah": "surah_59",
+            "verse": "verse_16"
+        }
+    },
+    {
+        "index": "549",
+        "start": {
+            "surah": "surah_59",
+            "verse": "verse_17"
+        },
+        "end": {
+            "surah": "surah_59",
+            "verse": "verse_24"
+        }
+    },
+    {
+        "index": "550",
+        "start": {
+            "surah": "surah_60",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_60",
+            "verse": "verse_4"
+        }
+    },
+    {
+        "index": "551",
+        "start": {
+            "surah": "surah_60",
+            "verse": "verse_5"
+        },
+        "end": {
+            "surah": "surah_60",
+            "verse": "verse_10"
+        }
+    },
+    {
+        "index": "552",
+        "start": {
+            "surah": "surah_60",
+            "verse": "verse_11"
+        },
+        "end": {
+            "surah": "surah_61",
+            "verse": "verse_4"
+        }
+    },
+    {
+        "index": "553",
+        "start": {
+            "surah": "surah_61",
+            "verse": "verse_5"
+        },
+        "end": {
+            "surah": "surah_61",
+            "verse": "verse_13"
+        }
+    },
+    {
+        "index": "554",
+        "start": {
+            "surah": "surah_61",
+            "verse": "verse_14"
+        },
+        "end": {
+            "surah": "surah_62",
+            "verse": "verse_6"
+        }
+    },
+    {
+        "index": "555",
+        "start": {
+            "surah": "surah_62",
+            "verse": "verse_7"
+        },
+        "end": {
+            "surah": "surah_62",
+            "verse": "verse_3"
+        }
+    },
+    {
+        "index": "556",
+        "start": {
+            "surah": "surah_63",
+            "verse": "verse_4"
+        },
+        "end": {
+            "surah": "surah_63",
+            "verse": "verse_11"
+        }
+    },
+    {
+        "index": "557",
+        "start": {
+            "surah": "surah_64",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_64",
+            "verse": "verse_8"
+        }
+    },
+    {
+        "index": "558",
+        "start": {
+            "surah": "surah_64",
+            "verse": "verse_9"
+        },
+        "end": {
+            "surah": "surah_64",
+            "verse": "verse_18"
+        }
+    },
+    {
+        "index": "559",
+        "start": {
+            "surah": "surah_65",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_65",
+            "verse": "verse_5"
+        }
+    },
+    {
+        "index": "560",
+        "start": {
+            "surah": "surah_64",
+            "verse": "verse_6"
+        },
+        "end": {
+            "surah": "surah_65",
+            "verse": "verse_12"
+        }
+    },
+    {
+        "index": "561",
+        "start": {
+            "surah": "surah_66",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_66",
+            "verse": "verse_6"
+        }
+    },
+    {
+        "index": "562",
+        "start": {
+            "surah": "surah_66",
+            "verse": "verse_7"
+        },
+        "end": {
+            "surah": "surah_66",
+            "verse": "verse_12"
+        }
+    },
+    {
+        "index": "563",
+        "start": {
+            "surah": "surah_67",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_67",
+            "verse": "verse_10"
+        }
+    },
+    {
+        "index": "564",
+        "start": {
+            "surah": "surah_67",
+            "verse": "verse_11"
+        },
+        "end": {
+            "surah": "surah_67",
+            "verse": "verse_22"
+        }
+    },
+    {
+        "index": "565",
+        "start": {
+            "surah": "surah_67",
+            "verse": "verse_23"
+        },
+        "end": {
+            "surah": "surah_68",
+            "verse": "verse_6"
+        }
+    },
+    {
+        "index": "566",
+        "start": {
+            "surah": "surah_68",
+            "verse": "verse_7"
+        },
+        "end": {
+            "surah": "surah_68",
+            "verse": "verse_31"
+        }
+    },
+    {
+        "index": "567",
+        "start": {
+            "surah": "surah_68",
+            "verse": "verse_32"
+        },
+        "end": {
+            "surah": "surah_68",
+            "verse": "verse_48"
+        }
+    },
+    {
+        "index": "568",
+        "start": {
+            "surah": "surah_68",
+            "verse": "verse_49"
+        },
+        "end": {
+            "surah": "surah_69",
+            "verse": "verse_12"
+        }
+    },
+    {
+        "index": "569",
+        "start": {
+            "surah": "surah_69",
+            "verse": "verse_13"
+        },
+        "end": {
+            "surah": "surah_69",
+            "verse": "verse_34"
+        }
+    },
+    {
+        "index": "570",
+        "start": {
+            "surah": "surah_69",
+            "verse": "verse_35"
+        },
+        "end": {
+            "surah": "surah_70",
+            "verse": "verse_4"
+        }
+    },
+    {
+        "index": "571",
+        "start": {
+            "surah": "surah_70",
+            "verse": "verse_5"
+        },
+        "end": {
+            "surah": "surah_70",
+            "verse": "verse_31"
+        }
+    },
+    {
+        "index": "572",
+        "start": {
+            "surah": "surah_70",
+            "verse": "verse_32"
+        },
+        "end": {
+            "surah": "surah_71",
+            "verse": "verse_2"
+        }
+    },
+    {
+        "index": "573",
+        "start": {
+            "surah": "surah_71",
+            "verse": "verse_3"
+        },
+        "end": {
+            "surah": "surah_71",
+            "verse": "verse_18"
+        }
+    },
+    {
+        "index": "574",
+        "start": {
+            "surah": "surah_71",
+            "verse": "verse_19"
+        },
+        "end": {
+            "surah": "surah_72",
+            "verse": "verse_1"
+        }
+    },
+    {
+        "index": "575",
+        "start": {
+            "surah": "surah_72",
+            "verse": "verse_2"
+        },
+        "end": {
+            "surah": "surah_72",
+            "verse": "verse_14"
+        }
+    },
+    {
+        "index": "576",
+        "start": {
+            "surah": "surah_72",
+            "verse": "verse_15"
+        },
+        "end": {
+            "surah": "surah_72",
+            "verse": "verse_27"
+        }
+    },
+    {
+        "index": "577",
+        "start": {
+            "surah": "surah_72",
+            "verse": "verse_28"
+        },
+        "end": {
+            "surah": "surah_73",
+            "verse": "verse_15"
+        }
+    },
+    {
+        "index": "578",
+        "start": {
+            "surah": "surah_73",
+            "verse": "verse_16"
+        },
+        "end": {
+            "surah": "surah_73",
+            "verse": "verse_20"
+        }
+    },
+    {
+        "index": "579",
+        "start": {
+            "surah": "surah_74",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_74",
+            "verse": "verse_30"
+        }
+    },
+    {
+        "index": "580",
+        "start": {
+            "surah": "surah_74",
+            "verse": "verse_31"
+        },
+        "end": {
+            "surah": "surah_74",
+            "verse": "verse_49"
+        }
+    },
+    {
+        "index": "581",
+        "start": {
+            "surah": "surah_74",
+            "verse": "verse_50"
+        },
+        "end": {
+            "surah": "surah_75",
+            "verse": "verse_14"
+        }
+    },
+    {
+        "index": "582",
+        "start": {
+            "surah": "surah_75",
+            "verse": "verse_15"
+        },
+        "end": {
+            "surah": "surah_75",
+            "verse": "verse_40"
+        }
+    },
+    {
+        "index": "583",
+        "start": {
+            "surah": "surah_76",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_76",
+            "verse": "verse_14"
+        }
+    },
+    {
+        "index": "584",
+        "start": {
+            "surah": "surah_76",
+            "verse": "verse_15"
+        },
+        "end": {
+            "surah": "surah_76",
+            "verse": "verse_30"
+        }
+    },
+    {
+        "index": "585",
+        "start": {
+            "surah": "surah_76",
+            "verse": "verse_31"
+        },
+        "end": {
+            "surah": "surah_77",
+            "verse": "verse_25"
+        }
+    },
+    {
+        "index": "586",
+        "start": {
+            "surah": "surah_77",
+            "verse": "verse_26"
+        },
+        "end": {
+            "surah": "surah_77",
+            "verse": "verse_50"
+        }
+    },
+    {
+        "index": "587",
+        "start": {
+            "surah": "surah_78",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_78",
+            "verse": "verse_27"
+        }
+    },
+    {
+        "index": "588",
+        "start": {
+            "surah": "surah_78",
+            "verse": "verse_28"
+        },
+        "end": {
+            "surah": "surah_79",
+            "verse": "verse_8"
+        }
+    },
+    {
+        "index": "589",
+        "start": {
+            "surah": "surah_79",
+            "verse": "verse_9"
+        },
+        "end": {
+            "surah": "surah_79",
+            "verse": "verse_38"
+        }
+    },
+    {
+        "index": "590",
+        "start": {
+            "surah": "surah_79",
+            "verse": "verse_39"
+        },
+        "end": {
+            "surah": "surah_80",
+            "verse": "verse_20"
+        }
+    },
+    {
+        "index": "591",
+        "start": {
+            "surah": "surah_80",
+            "verse": "verse_21"
+        },
+        "end": {
+            "surah": "surah_81",
+            "verse": "verse_7"
+        }
+    },
+    {
+        "index": "592",
+        "start": {
+            "surah": "surah_81",
+            "verse": "verse_8"
+        },
+        "end": {
+            "surah": "surah_82",
+            "verse": "verse_5"
+        }
+    },
+    {
+        "index": "593",
+        "start": {
+            "surah": "surah_82",
+            "verse": "verse_6"
+        },
+        "end": {
+            "surah": "surah_83",
+            "verse": "verse_10"
+        }
+    },
+    {
+        "index": "594",
+        "start": {
+            "surah": "surah_83",
+            "verse": "verse_11"
+        },
+        "end": {
+            "surah": "surah_83",
+            "verse": "verse_33"
+        }
+    },
+    {
+        "index": "595",
+        "start": {
+            "surah": "surah_83",
+            "verse": "verse_34"
+        },
+        "end": {
+            "surah": "surah_84",
+            "verse": "verse_21"
+        }
+    },
+    {
+        "index": "596",
+        "start": {
+            "surah": "surah_84",
+            "verse": "verse_22"
+        },
+        "end": {
+            "surah": "surah_85",
+            "verse": "verse_13"
+        }
+    },
+    {
+        "index": "597",
+        "start": {
+            "surah": "surah_85",
+            "verse": "verse_14"
+        },
+        "end": {
+            "surah": "surah_86",
+            "verse": "verse_17"
+        }
+    },
+    {
+        "index": "598",
+        "start": {
+            "surah": "surah_87",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_88",
+            "verse": "verse_7"
+        }
+    },
+    {
+        "index": "599",
+        "start": {
+            "surah": "surah_88",
+            "verse": "verse_8"
+        },
+        "end": {
+            "surah": "surah_89",
+            "verse": "verse_9"
+        }
+    },
+    {
+        "index": "600",
+        "start": {
+            "surah": "surah_89",
+            "verse": "verse_10"
+        },
+        "end": {
+            "surah": "surah_89",
+            "verse": "verse_30"
+        }
+    },
+    {
+        "index": "601",
+        "start": {
+            "surah": "surah_90",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_91",
+            "verse": "verse_5"
+        }
+    },
+    {
+        "index": "602",
+        "start": {
+            "surah": "surah_91",
+            "verse": "verse_6"
+        },
+        "end": {
+            "surah": "surah_92",
+            "verse": "verse_18"
+        }
+    },
+    {
+        "index": "603",
+        "start": {
+            "surah": "surah_92",
+            "verse": "verse_19"
+        },
+        "end": {
+            "surah": "surah_94",
+            "verse": "verse_8"
+        }
+    },
+    {
+        "index": "604",
+        "start": {
+            "surah": "surah_95",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_96",
+            "verse": "verse_17"
+        }
+    },
+    {
+        "index": "605",
+        "start": {
+            "surah": "surah_96",
+            "verse": "verse_18"
+        },
+        "end": {
+            "surah": "surah_98",
+            "verse": "verse_6"
+        }
+    },
+    {
+        "index": "606",
+        "start": {
+            "surah": "surah_98",
+            "verse": "verse_7"
+        },
+        "end": {
+            "surah": "surah_100",
+            "verse": "verse_8"
+        }
+    },
+    {
+        "index": "607",
+        "start": {
+            "surah": "surah_100",
+            "verse": "verse_9"
+        },
+        "end": {
+            "surah": "surah_102",
+            "verse": "verse_8"
+        }
+    },
+    {
+        "index": "608",
+        "start": {
+            "surah": "surah_103",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_105",
+            "verse": "verse_5"
+        }
+    },
+    {
+        "index": "609",
+        "start": {
+            "surah": "surah_106",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_109",
+            "verse": "verse_2"
+        }
+    },
+    {
+        "index": "610",
+        "start": {
+            "surah": "surah_109",
+            "verse": "verse_3"
+        },
+        "end": {
+            "surah": "surah_112",
+            "verse": "verse_4"
+        }
+    },
+    {
+        "index": "611",
+        "start": {
+            "surah": "surah_113",
+            "verse": "verse_1"
+        },
+        "end": {
+            "surah": "surah_114",
+            "verse": "verse_5"
+        }
+    }
+]
