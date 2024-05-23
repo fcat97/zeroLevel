@@ -7,7 +7,7 @@
   4. update mirrors `sudo pacman-mirror --fasttrack 5`
   5. update package database `sudo pacman -Sy`
   6. Install `libreoffice`, `kvantum`, `gimp`
-  7. Install themes GTK: `GnomeDark` & Kvantum: `KvGnomeDark` & Plasma-Theme `Breeze Dark`
+  7. Install themes GTK: `GnomeDark` & Kvantum: `KvGnomeDark` & Plasma-Theme `Breeze Dark`; Icon Theme: `BeautySolar`
   8. Install `ComicShannsMono Nerd Font 10pt` from nerd fonts.
   9. Install `Mailspring` from AUR
   10. Install `lsd` to colorize the termuinal and add `alias = ls` in `~/.zshrc`.
